@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Federal workers by residence"
+  search: false
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css

@@ -1,0 +1,182 @@
+clean_cbsa_state_map = function(cbsa_state_map_file) {
+  cbsa_state_map_file |> 
+    select(metro = cbsa20, state_fips = state)
+}
+
+create_acs_csvs = function(acs_raw_data, cbsa_state_map, state_abbs) {
+  state_csv_output = "web_assets/federal_workers_state.csv"
+  county_csv_output = "web_assets/federal_workers_county.csv"
+  cd_csv_output = "web_assets/federal_workers_cd.csv"
+  metro_csv_output = "web_assets/federal_workers_metro.csv"
+
+  acs_data = acs_raw_data |> 
+    mutate(
+      county_fips = as.numeric(paste0(state, county)),
+      state_fips = as.numeric(state),
+      cd = as.numeric(congressional_district),
+      metro = as.numeric(metro)
+    ) |> 
+    select(geo_type, metro, state_fips, county_fips, cd, geo_name, value, me, total) |> 
+    # drop any areas with missing values for federal workers
+    filter(!is.na(value)) |> 
+    mutate(share = value / total)
+
+  acs_states = acs_data |> 
+    filter(geo_type == "state") |> 
+    distinct(state_fips, geo_name) |> 
+    select(state_fips, state_name = geo_name)
+
+  acs_data_final = acs_data |> 
+    full_join(acs_states, by = "state_fips") |> 
+    select(
+      geo_type, state_name, state_fips, county_fips, cd, metro, geo_name, 
+      federal_workers = value,
+      margin_of_error = me,
+      share_of_employment = share
+    ) 
+
+  acs_data_final |> 
+    filter(geo_type == "state") |> 
+    select(
+      state_name, state_fips, geo_name, 
+      federal_workers, margin_of_error, share_of_employment
+    ) |> 
+    arrange(geo_name) |> 
+    write_csv(state_csv_output)
+
+  acs_data_final |> 
+    filter(geo_type == "county") |>
+    mutate(geo_name = str_replace(geo_name, ",.*", "")) |> 
+    select(
+      state_name, county_fips, geo_name, 
+      federal_workers, margin_of_error, share_of_employment
+    ) |> 
+    arrange(state_name, geo_name) |> 
+    write_csv(county_csv_output)
+
+  acs_data_final |> 
+    filter(geo_type == "cd") |> 
+    full_join(state_abbs, by = "state_fips") |> 
+    mutate(
+      geo_name = str_replace(geo_name, " \\(118.*", ""),
+      geo_name = str_replace(geo_name, "\\(at Large\\)", "1"),
+      geo_name = str_replace(geo_name, "Congressional District ", paste0(state_abb, "\\u2013"))
+    ) |> 
+    mutate(geo_name = case_match(
+      state_name,
+      "District of Columbia" ~ "DC-1",
+      "Puerto Rico" ~ "PR-1",
+      .default = geo_name
+    )) |> 
+    select(
+      state_name, cd, geo_name, 
+      federal_workers, margin_of_error, share_of_employment
+    ) |> 
+    arrange(state_name, cd) |> 
+    write_csv(cd_csv_output)
+
+  acs_data_final |> 
+    filter(geo_type == "metro") |> 
+    select(-c(state_fips, state_name)) |> 
+    left_join(cbsa_state_map, by = "metro") |> 
+    left_join(acs_states, by = "state_fips") |> 
+    mutate(geo_name = str_replace(geo_name, "( Metro Area)|( Micro Area)", ""))  |> 
+    select(
+      state_name, metro, geo_name,
+      federal_workers, margin_of_error, share_of_employment
+    ) |> 
+    arrange(metro) |> 
+    write_csv(metro_csv_output)
+
+  c(
+    state_csv_output,
+    county_csv_output,
+    cd_csv_output,
+    metro_csv_output
+  )
+}
+
+
+download_acs_data = function(download_date) {
+  county_level = getCensus(
+    name = "acs/acsse", 
+    vintage = 2023, 
+    vars = "group(K202402)", 
+    region = "county:*") |> 
+    as_tibble() |> 
+    select(
+      state, 
+      county, 
+      geo_id = GEO_ID, 
+      geo_name = NAME,
+      value = K202402_007E,
+      value_note = K202402_007EA,
+      me = K202402_007M,
+      me_note = K202402_007MA,
+      total = K202402_001E
+    ) |> 
+    mutate(geo_type = "county")
+
+  metro_level = getCensus(
+    name = "acs/acsse", 
+    vintage = 2023, 
+    vars = "group(K202402)", 
+    region = "metropolitan statistical area/micropolitan statistical area:*") |> 
+    as_tibble() |> 
+    select(
+      metro = metropolitan_statistical_area_micropolitan_statistical_area, 
+      geo_id = GEO_ID, 
+      geo_name = NAME,
+      value = K202402_007E,
+      value_note = K202402_007EA,
+      me = K202402_007M,
+      me_note = K202402_007MA,
+      total = K202402_001E
+    ) |> 
+    mutate(geo_type = "metro")
+
+  state_level = getCensus(
+    name = "acs/acsse", 
+    vintage = 2023, 
+    vars = "group(K202402)", 
+    region = "state:*") |> 
+    as_tibble() |> 
+    select(
+      state, 
+      geo_id = GEO_ID, 
+      geo_name = NAME,
+      value = K202402_007E,
+      value_note = K202402_007EA,
+      me = K202402_007M,
+      me_note = K202402_007MA,
+      total = K202402_001E
+    ) |> 
+    mutate(geo_type = "state")
+
+  congressional_district = getCensus(
+    name = "acs/acsse", 
+    vintage = 2023, 
+    vars = "group(K202402)", 
+    region = "congressional district:*") |> 
+    as_tibble() |> 
+    select(
+      state, 
+      congressional_district,
+      geo_id = GEO_ID, 
+      geo_name = NAME,
+      value = K202402_007E,
+      value_note = K202402_007EA,
+      me = K202402_007M,
+      me_note = K202402_007MA,
+      total = K202402_001E
+    ) |> 
+    mutate(geo_type = "cd")
+
+  bind_rows(
+    county_level,
+    metro_level,
+    state_level,
+    congressional_district
+  )
+  
+}
