@@ -127,9 +127,9 @@ DOM.download(async () => {
 }, "federal_workers_metro_selections.csv", metro_download_text)
 ```
 
-The data are based on the 2023 [American Community Survey](https://data.census.gov/table?t=Class%20of%20Worker&g=010XX00US,$0400000&d=ACS%201-Year%20Supplemental%20Estimates) 1-year estimates of civilian employment by class of worker and extend the estimates previously published in [2024 Congressional Research Service report R47716](https://crsreports.congress.gov/product/pdf/R/R47716). The margin of error is for a 90% percent confidence interval. The share of total employment is the number of federal workers divided by all workers in a given location. Some small counties or areas may not be listed.
+The data are based on the 2023 [American Community Survey](https://data.census.gov/table?t=Class%20of%20Worker&g=010XX00US,$0400000&d=ACS%201-Year%20Supplemental%20Estimates) 1-year estimates of civilian employment by class of worker and residence, and they extend the estimates previously published in [2024 Congressional Research Service report R47716](https://crsreports.congress.gov/product/pdf/R/R47716). The margin of error is for a 90% percent confidence interval. The share of total employment is the number of civilian federal workers divided by the number of all civilian workers living in a given location. Some small counties or areas may not be listed.
 
-The analysis above rescales published ACS counts and margins of error so that the count of federal workers presented above equals the January 2025  [BLS Current Employment Situation](https://data.bls.gov/dataViewer/view/timeseries/CES9091000001) federal government employment estimate of 3,024,000.
+This analysis rescales published ACS counts and margins of error so that the values above are consistent with the January 2025 BLS Current Employment Situation federal government employment [estimate](https://data.bls.gov/dataViewer/view/timeseries/CES9091000001) of 3,024,000 and total nonfarm employment [estimate](https://data.bls.gov/dataViewer/view/timeseries/CES0000000001) of 159,069,000.
 
 To cite these data:
 

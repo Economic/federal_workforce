@@ -3,7 +3,13 @@ clean_cbsa_state_map = function(cbsa_state_map_file) {
     select(metro = cbsa20, state_fips = state)
 }
 
-create_acs_csvs = function(acs_raw_data, cbsa_state_map, state_abbs, ces_total_emp) {
+create_acs_csvs = function(
+  acs_raw_data, 
+  cbsa_state_map, 
+  state_abbs, 
+  ces_gov_emp,
+  ces_total_emp
+) {
   state_csv_output = "web_assets/federal_workers_state.csv"
   county_csv_output = "web_assets/federal_workers_county.csv"
   cd_csv_output = "web_assets/federal_workers_cd.csv"
@@ -18,18 +24,33 @@ create_acs_csvs = function(acs_raw_data, cbsa_state_map, state_abbs, ces_total_e
     ) |> 
     # drop any areas with missing values for federal workers
     filter(!is.na(value)) |> 
-    mutate(share = value / total) |> 
-    select(geo_type, metro, state_fips, county_fips, cd, geo_name, value, me, share) 
+    select(geo_type, metro, state_fips, county_fips, cd, geo_name, value, me, total) 
   
-  acs_original_total = acs_data_prep |> 
+  acs_original_gov = acs_data_prep |> 
     filter(geo_type == "state") |> 
     summarize(sum(value)) |> 
     pull()
 
-  scaling_factor = ces_total_emp / acs_original_total
+  acs_original_total = acs_data_prep |> 
+    filter(geo_type == "state") |> 
+    summarize(sum(total)) |> 
+    pull()
+
+  scaling_factor_gov = ces_gov_emp / acs_original_gov
+  scaling_factor_total = ces_total_emp / acs_original_total
 
   acs_data = acs_data_prep |> 
-    mutate(value = value * scaling_factor, me = me * scaling_factor)
+    mutate(
+      value = value * scaling_factor_gov, 
+      me = me * scaling_factor_gov,
+      total = total * scaling_factor_total,
+      share = value / total,
+    ) |> 
+    mutate(
+      value = round(value),
+      me = round(me),
+      share = round(share, 3)
+    )
 
   acs_states = acs_data |> 
     filter(geo_type == "state") |> 

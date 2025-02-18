@@ -12,7 +12,11 @@ tar_assign({
   # ACS emp seems overstated relative to CES, QCEW, and OPM+USPS
   # ACS = 4.4 million; other sources ~ 3 million
   # from BLS series CES9091000001, value Jan 2025
-  ces_total_emp = 3024000 |> 
+  ces_gov_emp = 3024000 |> 
+    tar_target()
+
+  # from BLS nonfarm series CES0000000001, value Jan 2025
+  ces_total_emp = 159069000 |> 
     tar_target()
 
   state_abbs = state |> 
@@ -30,7 +34,13 @@ tar_assign({
   acs_raw_data = download_acs_data(download_date) |> 
     tar_target()
 
-  acs_csvs = create_acs_csvs(acs_raw_data, cbsa_state_map, state_abbs, ces_total_emp) |> 
+  acs_csvs = create_acs_csvs(
+    acs_raw_data, 
+    cbsa_state_map, 
+    state_abbs, 
+    ces_gov_emp, 
+    ces_total_emp
+  ) |> 
     tar_file()
 
   website = tar_quarto(quiet = FALSE)
