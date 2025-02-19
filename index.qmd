@@ -17,7 +17,7 @@ viewof state_selection = Inputs.select(state_data.map((d) => d.state_name), {lab
 
 # ${state_count} federal workers live in ${state_selection}
 
-### Federal workers, by place of residence
+### Federal government workers, by place of residence
 
 ::: {.panel-tabset}
 ## Congressional District
