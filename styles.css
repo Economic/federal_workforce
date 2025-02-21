@@ -10,7 +10,7 @@
   }
 .btn {
     border-radius: 4px;
-    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 .btn.btn-quarto, div.cell-output-display .btn-quarto {
