@@ -1,3 +1,12 @@
+:root { 
+    --epi-red: #c01f41;
+    --epi-lt-grey: #f0f0f0;
+    --epi-body-font-family: proxima-nova, "Proxima Nova", Arial, sans-serif;
+}
+
+body {
+    font-family: var(--epi-body-font-family);
+}
 .custom-tooltip {
     --bs-tooltip-bg: var(--bs-primary);
 }
@@ -7,7 +16,8 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-  }
+}
+
 .btn {
     border-radius: 4px;
     margin-bottom: 1em;
@@ -15,11 +25,39 @@
 
 .btn.btn-quarto, div.cell-output-display .btn-quarto {
     --bs-btn-color: #fff;
-    --bs-btn-bg: rgba(var(--bs-link-color-rgb));
+    --bs-btn-bg: var(--epi-red);
+    --bs-btn-border-color: var(--epi-red);
+    --bs-btn-hover-color: var(--epi-red);
+    /* original button colors */
+    /* --bs-btn-bg: rgba(var(--bs-link-color-rgb));
     --bs-btn-border-color: rgba(var(--bs-link-color-rgb));
-    --bs-btn-hover-color: rgba(#1f4eb6);
+    --bs-btn-hover-color: rgba(#1f4eb6); */
     --bs-btn-hover-bg: #fff;
 }
+
+/* overriding original styles */
+a,
+.nav-link {
+    color: var(--epi-red);
+}
+.nav-link:hover {
+    color: var(--epi-red);
+    text-decoration: underline;
+}
+
+div.callout-note.callout {
+    border-left-color: var(--epi-red);
+}
+
+div.callout-note.callout-style-default>.callout-header {
+    background-color: var(--epi-lt-grey)
+}
+
+/* hiding the icon bc it is a blue img */
+div.callout-icon-container {
+    display: none;
+}
+
 /*
 .btn.btn-quarto {
     background: #a3243b;
