@@ -1,7 +1,7 @@
 :root { 
     --epi-red: #c01f41;
     --epi-lt-grey: #f0f0f0;
-    --epi-body-font-family: proxima-nova, "Proxima Nova", Arial, sans-serif;
+    --epi-body-font-family: proxima-nova, "Proxima Nova", "Source Sans Pro", sans-serif;
 }
 
 body {
