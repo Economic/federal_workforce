@@ -46,6 +46,10 @@ Inputs.table(cd_filtered, {
 })
 ```
 
+Congressional Districts are for the 118th U.S. Congress (January 2023-2025). 
+
+${redistricting_state_note}
+
 ## County
 ```{ojs}
 Inputs.table(county_filtered, {
@@ -160,6 +164,10 @@ metro_filtered = metro_data
   .filter((d) => d.state_name == state_selection)
 
 state_count = d3.format(",.0f")(state_filtered[0]['federal_workers'])
+
+redistricted_states = ["Alabama", "Georgia", "Louisiana", "North Carolina", "New York"]
+
+redistricting_state_note = redistricted_states.includes(state_selection) ? "* Due to redistricting, the " + state_selection + " Congressional Districts above may differ from current 119th Congressional District boundaries." : ""
 
 ```
 
