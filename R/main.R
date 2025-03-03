@@ -85,6 +85,15 @@ create_acs_csvs = function(
     arrange(state_name, geo_name) |> 
     write_csv(county_csv_output)
 
+
+  redistricting_exceptions = c(
+    "Alabama",
+    "Georgia",
+    "Louisiana",
+    "North Carolina",
+    "New York"
+  )
+
   acs_data_final |> 
     filter(geo_type == "cd") |> 
     full_join(state_abbs, by = "state_fips") |> 
@@ -98,6 +107,12 @@ create_acs_csvs = function(
       "District of Columbia" ~ "DC-1",
       "Puerto Rico" ~ "PR-1",
       .default = geo_name
+    )) |> 
+    # redistricting exceptions
+    mutate(geo_name = if_else(
+      state_name %in% redistricting_exceptions,
+      paste0(geo_name, "*"),
+      geo_name
     )) |> 
     select(
       state_name, cd, geo_name, 
