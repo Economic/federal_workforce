@@ -115,7 +115,7 @@ create_acs_csvs = function(
       geo_name
     )) |> 
     select(
-      state_name, cd, geo_name, 
+      state_name, state_fips, cd, geo_name, 
       federal_workers, margin_of_error, share_of_employment
     ) |> 
     arrange(state_name, cd) |> 
