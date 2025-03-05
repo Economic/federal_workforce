@@ -21,7 +21,6 @@ tar_assign({
 
   state_abbs = state |> 
     mutate(state_fips = as.numeric(fips)) |> 
-    add_row(state_fips = 72, usps = "PR") |> 
     select(state_fips, state_abb = usps) |> 
     tar_target()
 

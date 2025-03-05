@@ -1,6 +1,7 @@
 clean_cbsa_state_map = function(cbsa_state_map_file) {
   cbsa_state_map_file |> 
-    select(metro = cbsa20, state_fips = state)
+    select(metro = cbsa20, state_fips = state) |> 
+    filter(state_fips != 72)
 }
 
 create_acs_csvs = function(
@@ -161,7 +162,8 @@ download_acs_data = function(download_date) {
       me_note = K202402_007MA,
       total = K202402_001E
     ) |> 
-    mutate(geo_type = "county")
+    mutate(geo_type = "county") |> 
+    filter(state != "72")
 
   metro_level = getCensus(
     name = "acs/acsse", 
@@ -179,7 +181,8 @@ download_acs_data = function(download_date) {
       me_note = K202402_007MA,
       total = K202402_001E
     ) |> 
-    mutate(geo_type = "metro")
+    mutate(geo_type = "metro") |> 
+    filter(!str_detect(geo_name, "PR$"))
 
   state_level = getCensus(
     name = "acs/acsse", 
@@ -197,7 +200,8 @@ download_acs_data = function(download_date) {
       me_note = K202402_007MA,
       total = K202402_001E
     ) |> 
-    mutate(geo_type = "state")
+    mutate(geo_type = "state") |> 
+    filter(state != "72")
 
   congressional_district = getCensus(
     name = "acs/acsse", 
@@ -216,7 +220,9 @@ download_acs_data = function(download_date) {
       me_note = K202402_007MA,
       total = K202402_001E
     ) |> 
-    mutate(geo_type = "cd")
+    mutate(geo_type = "cd") |> 
+    filter(state != "72")
+
 
   bind_rows(
     county_level,

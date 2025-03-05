@@ -1,979 +1,979 @@
 state_name,metro,geo_name,federal_workers,margin_of_error,share_of_employment
-South Dakota,10100,"Aberdeen, SD",230,227,0.011
-Washington,10140,"Aberdeen, WA",401,277,0.014
-Texas,10180,"Abilene, TX",1406,621,0.018
-Oklahoma,10220,"Ada, OK",1915,434,0.109
-Michigan,10300,"Adrian, MI",668,371,0.015
-Puerto Rico,10380,"Aguadilla, PR",806,471,0.01
-Ohio,10420,"Akron, OH",3303,831,0.01
-New Mexico,10460,"Alamogordo, NM",1299,467,0.048
-NA,10480,"Alamosa, CO",272,207,0.022
-Georgia,10500,"Albany, GA",2252,734,0.039
-Oregon,10540,"Albany, OR",596,414,0.01
-New York,10580,"Albany-Schenectady-Troy, NY",8726,1415,0.02
-North Carolina,10620,"Albemarle, NC",394,305,0.014
-Minnesota,10660,"Albert Lea, MN",128,121,0.009
-Alabama,10700,"Albertville, AL",1135,469,0.027
-New Mexico,10740,"Albuquerque, NM",20512,2266,0.048
-Alabama,10760,"Alexander City, AL",124,178,0.007
-Louisiana,10780,"Alexandria, LA",2118,643,0.036
-Minnesota,10820,"Alexandria, MN",91,73,0.005
-Texas,10860,"Alice, TX",66,88,0.004
-New Jersey,10900,"Allentown-Bethlehem-Easton, PA-NJ",3855,864,0.009
-Pennsylvania,10900,"Allentown-Bethlehem-Easton, PA-NJ",3855,864,0.009
-Michigan,10940,"Alma, MI",45,40,0.003
-Michigan,10980,"Alpena, MI",344,299,0.03
-Pennsylvania,11020,"Altoona, PA",952,338,0.018
-Oklahoma,11060,"Altus, OK",945,342,0.092
-Texas,11100,"Amarillo, TX",5296,1635,0.04
-Georgia,11140,"Americus, GA",265,259,0.019
-Iowa,11180,"Ames, IA",977,471,0.015
-NA,11200,"Amherst Town-Northampton, MA",973,480,0.012
-New York,11220,"Amsterdam, NY",255,203,0.011
-Alaska,11260,"Anchorage, AK",9967,1863,0.053
-NA,11360,"Anderson Creek, NC",2155,672,0.041
-Indiana,11420,"Angola, IN",199,258,0.012
-Michigan,11460,"Ann Arbor, MI",1474,432,0.008
-Alabama,11500,"Anniston-Oxford, AL",1060,440,0.022
-Wisconsin,11540,"Appleton, WI",1109,385,0.009
-Florida,11580,"Arcadia, FL",65,101,0.005
-Oklahoma,11620,"Ardmore, OK",428,162,0.02
-Puerto Rico,11640,"Arecibo, PR",740,624,0.013
-Arkansas,11660,"Arkadelphia, AR",116,161,0.012
-NA,11680,"Arkansas City-Winfield, KS",90,98,0.006
-North Carolina,11700,"Asheville, NC",2827,755,0.015
-Ohio,11740,"Ashland, OH",60,73,0.003
-Oregon,11820,"Astoria, OR",237,256,0.013
-Ohio,11900,"Athens, OH",371,355,0.013
-Tennessee,11940,"Athens, TN",517,355,0.019
-Texas,11980,"Athens, TX",381,287,0.011
-Georgia,12020,"Athens-Clarke County, GA",1811,541,0.017
-Georgia,12060,"Atlanta-Sandy Springs-Roswell, GA",54012,4458,0.017
-New Jersey,12100,"Atlantic City-Hammonton, NJ",2327,665,0.013
-Indiana,12140,"Auburn, IN",399,331,0.018
-New York,12180,"Auburn, NY",338,195,0.01
-Alabama,12220,"Auburn-Opelika, AL",2123,758,0.024
-Georgia,12260,"Augusta-Richmond County, GA-SC",11541,1688,0.043
-South Carolina,12260,"Augusta-Richmond County, GA-SC",11541,1688,0.043
-Maine,12300,"Augusta-Waterville, ME",1696,731,0.028
-Minnesota,12380,"Austin, MN",177,178,0.009
-Texas,12420,"Austin-Round Rock-San Marcos, TX",17513,2192,0.013
-Georgia,12460,"Bainbridge, GA",0,155,0
-California,12540,"Bakersfield-Delano, CA",7622,1349,0.021
-Maryland,12580,"Baltimore-Columbia-Towson, MD",77051,4033,0.055
-Maine,12620,"Bangor, ME",728,298,0.01
-Wisconsin,12660,"Baraboo, WI",254,105,0.007
-Massachusetts,12700,"Barnstable Town, MA",1840,707,0.017
-Vermont,12740,"Barre, VT",538,321,0.017
-Oklahoma,12780,"Bartlesville, OK",628,353,0.029
-New York,12860,"Batavia, NY",628,296,0.023
-Arkansas,12900,"Batesville, AR",148,164,0.008
-Louisiana,12940,"Baton Rouge, LA",3684,984,0.009
-Michigan,12980,"Battle Creek, MI",1144,394,0.02
-Michigan,13020,"Bay City, MI",430,185,0.01
-Texas,13060,"Bay City, TX",593,640,0.038
-Nebraska,13100,"Beatrice, NE",126,116,0.012
-Texas,13140,"Beaumont-Port Arthur, TX",2060,840,0.013
-Wisconsin,13180,"Beaver Dam, WI",466,314,0.011
-West Virginia,13220,"Beckley, WV",1672,667,0.04
-Indiana,13260,"Bedford, IN",946,366,0.044
-Texas,13300,"Beeville, TX",178,189,0.017
-Ohio,13340,"Bellefontaine, OH",127,130,0.006
-Washington,13380,"Bellingham, WA",1886,606,0.017
-Minnesota,13420,"Bemidji, MN",600,263,0.028
-Oregon,13460,"Bend, OR",1529,641,0.012
-Vermont,13540,"Bennington, VT",199,157,0.012
-Michigan,13660,"Big Rapids, MI",406,247,0.023
-Texas,13700,"Big Spring, TX",687,336,0.058
-Montana,13740,"Billings, MT",1819,544,0.019
-New York,13780,"Binghamton, NY",893,466,0.008
-Alabama,13820,"Birmingham, AL",8951,1480,0.017
-North Dakota,13900,"Bismarck, ND",2050,737,0.03
-Idaho,13940,"Blackfoot, ID",1294,438,0.063
-Virginia,13980,"Blacksburg-Christiansburg-Radford, VA",947,351,0.012
-Illinois,14010,"Bloomington, IL",444,314,0.005
-Indiana,14020,"Bloomington, IN",2012,800,0.026
-Pennsylvania,14100,"Bloomsburg-Berwick, PA",162,101,0.005
-Virginia,14140,"Bluefield, WV-VA",282,180,0.008
-West Virginia,14140,"Bluefield, WV-VA",282,180,0.008
-Arkansas,14180,"Blytheville, AR",226,224,0.014
-Louisiana,14220,"Bogalusa, LA",220,239,0.015
-Idaho,14260,"Boise City, ID",5971,1108,0.015
-Texas,14300,"Bonham, TX",628,394,0.039
-North Carolina,14380,"Boone, NC",208,232,0.008
-Massachusetts,14460,"Boston-Cambridge-Newton, MA-NH",34698,2591,0.013
-New Hampshire,14460,"Boston-Cambridge-Newton, MA-NH",34698,2591,0.013
-Colorado,14500,"Boulder, CO",1843,560,0.011
-Kentucky,14540,"Bowling Green, KY",1128,506,0.012
-Montana,14580,"Bozeman, MT",1257,630,0.017
-Pennsylvania,14620,"Bradford, PA",524,313,0.032
-Minnesota,14660,"Brainerd, MN",321,136,0.007
-Missouri,14700,"Branson, MO",278,207,0.01
-NA,14710,"Brattleboro, VT",200,160,0.009
-Colorado,14720,"Breckenridge, CO",296,238,0.013
-Washington,14740,"Bremerton-Silverdale-Port Orchard, WA",12678,1687,0.104
-Texas,14780,"Brenham, TX",93,123,0.006
-North Carolina,14820,"Brevard, NC",211,204,0.015
-Connecticut,14860,"Bridgeport-Stamford-Danbury, CT",4197,1211,0.009
-NA,14940,"Brigham City, UT-ID",584,257,0.019
+South Dakota,10100,"Aberdeen, SD",231,228,0.011
+Washington,10140,"Aberdeen, WA",403,279,0.014
+Texas,10180,"Abilene, TX",1413,625,0.018
+Oklahoma,10220,"Ada, OK",1925,436,0.109
+Michigan,10300,"Adrian, MI",672,373,0.015
+NA,10380,"Aguadilla, PR",810,474,0.01
+Ohio,10420,"Akron, OH",3320,835,0.01
+New Mexico,10460,"Alamogordo, NM",1305,470,0.048
+NA,10480,"Alamosa, CO",274,208,0.022
+Georgia,10500,"Albany, GA",2264,738,0.039
+Oregon,10540,"Albany, OR",599,416,0.01
+New York,10580,"Albany-Schenectady-Troy, NY",8772,1423,0.02
+North Carolina,10620,"Albemarle, NC",396,307,0.014
+Minnesota,10660,"Albert Lea, MN",129,121,0.009
+Alabama,10700,"Albertville, AL",1141,471,0.027
+New Mexico,10740,"Albuquerque, NM",20619,2278,0.048
+Alabama,10760,"Alexander City, AL",125,179,0.007
+Louisiana,10780,"Alexandria, LA",2129,647,0.036
+Minnesota,10820,"Alexandria, MN",92,73,0.005
+Texas,10860,"Alice, TX",66,89,0.004
+New Jersey,10900,"Allentown-Bethlehem-Easton, PA-NJ",3875,869,0.009
+Pennsylvania,10900,"Allentown-Bethlehem-Easton, PA-NJ",3875,869,0.009
+Michigan,10940,"Alma, MI",46,41,0.003
+Michigan,10980,"Alpena, MI",346,301,0.03
+Pennsylvania,11020,"Altoona, PA",957,340,0.018
+Oklahoma,11060,"Altus, OK",950,344,0.092
+Texas,11100,"Amarillo, TX",5323,1644,0.04
+Georgia,11140,"Americus, GA",266,261,0.019
+Iowa,11180,"Ames, IA",982,474,0.015
+NA,11200,"Amherst Town-Northampton, MA",978,483,0.012
+New York,11220,"Amsterdam, NY",257,204,0.011
+Alaska,11260,"Anchorage, AK",10019,1873,0.053
+NA,11360,"Anderson Creek, NC",2166,675,0.041
+Indiana,11420,"Angola, IN",200,259,0.012
+Michigan,11460,"Ann Arbor, MI",1482,434,0.008
+Alabama,11500,"Anniston-Oxford, AL",1065,442,0.022
+Wisconsin,11540,"Appleton, WI",1115,387,0.009
+Florida,11580,"Arcadia, FL",66,101,0.005
+Oklahoma,11620,"Ardmore, OK",430,163,0.02
+NA,11640,"Arecibo, PR",744,627,0.013
+Arkansas,11660,"Arkadelphia, AR",117,161,0.012
+NA,11680,"Arkansas City-Winfield, KS",90,99,0.006
+North Carolina,11700,"Asheville, NC",2842,759,0.015
+Ohio,11740,"Ashland, OH",61,73,0.003
+Oregon,11820,"Astoria, OR",238,257,0.013
+Ohio,11900,"Athens, OH",373,357,0.013
+Tennessee,11940,"Athens, TN",519,357,0.019
+Texas,11980,"Athens, TX",383,289,0.011
+Georgia,12020,"Athens-Clarke County, GA",1820,544,0.017
+Georgia,12060,"Atlanta-Sandy Springs-Roswell, GA",54295,4481,0.017
+New Jersey,12100,"Atlantic City-Hammonton, NJ",2339,668,0.013
+Indiana,12140,"Auburn, IN",401,333,0.018
+New York,12180,"Auburn, NY",340,196,0.01
+Alabama,12220,"Auburn-Opelika, AL",2134,762,0.024
+Georgia,12260,"Augusta-Richmond County, GA-SC",11601,1697,0.043
+South Carolina,12260,"Augusta-Richmond County, GA-SC",11601,1697,0.043
+Maine,12300,"Augusta-Waterville, ME",1705,734,0.028
+Minnesota,12380,"Austin, MN",178,179,0.009
+Texas,12420,"Austin-Round Rock-San Marcos, TX",17604,2203,0.013
+Georgia,12460,"Bainbridge, GA",0,156,0
+California,12540,"Bakersfield-Delano, CA",7662,1356,0.021
+Maryland,12580,"Baltimore-Columbia-Towson, MD",77455,4054,0.055
+Maine,12620,"Bangor, ME",732,300,0.01
+Wisconsin,12660,"Baraboo, WI",256,106,0.007
+Massachusetts,12700,"Barnstable Town, MA",1849,710,0.017
+Vermont,12740,"Barre, VT",541,323,0.017
+Oklahoma,12780,"Bartlesville, OK",632,355,0.029
+New York,12860,"Batavia, NY",632,297,0.023
+Arkansas,12900,"Batesville, AR",149,165,0.008
+Louisiana,12940,"Baton Rouge, LA",3703,990,0.009
+Michigan,12980,"Battle Creek, MI",1149,396,0.02
+Michigan,13020,"Bay City, MI",432,185,0.01
+Texas,13060,"Bay City, TX",596,643,0.038
+Nebraska,13100,"Beatrice, NE",127,117,0.012
+Texas,13140,"Beaumont-Port Arthur, TX",2071,844,0.013
+Wisconsin,13180,"Beaver Dam, WI",469,316,0.011
+West Virginia,13220,"Beckley, WV",1681,671,0.04
+Indiana,13260,"Bedford, IN",951,368,0.044
+Texas,13300,"Beeville, TX",179,190,0.017
+Ohio,13340,"Bellefontaine, OH",128,131,0.006
+Washington,13380,"Bellingham, WA",1896,609,0.017
+Minnesota,13420,"Bemidji, MN",603,265,0.028
+Oregon,13460,"Bend, OR",1537,644,0.012
+Vermont,13540,"Bennington, VT",200,158,0.011
+Michigan,13660,"Big Rapids, MI",408,248,0.023
+Texas,13700,"Big Spring, TX",691,338,0.058
+Montana,13740,"Billings, MT",1829,547,0.019
+New York,13780,"Binghamton, NY",898,468,0.008
+Alabama,13820,"Birmingham, AL",8997,1488,0.017
+North Dakota,13900,"Bismarck, ND",2061,741,0.03
+Idaho,13940,"Blackfoot, ID",1301,440,0.063
+Virginia,13980,"Blacksburg-Christiansburg-Radford, VA",952,353,0.012
+Illinois,14010,"Bloomington, IL",446,316,0.005
+Indiana,14020,"Bloomington, IN",2022,804,0.026
+Pennsylvania,14100,"Bloomsburg-Berwick, PA",163,101,0.005
+Virginia,14140,"Bluefield, WV-VA",283,181,0.008
+West Virginia,14140,"Bluefield, WV-VA",283,181,0.008
+Arkansas,14180,"Blytheville, AR",228,225,0.014
+Louisiana,14220,"Bogalusa, LA",221,241,0.015
+Idaho,14260,"Boise City, ID",6002,1114,0.015
+Texas,14300,"Bonham, TX",632,396,0.039
+North Carolina,14380,"Boone, NC",209,233,0.008
+Massachusetts,14460,"Boston-Cambridge-Newton, MA-NH",34880,2604,0.013
+New Hampshire,14460,"Boston-Cambridge-Newton, MA-NH",34880,2604,0.013
+Colorado,14500,"Boulder, CO",1853,563,0.011
+Kentucky,14540,"Bowling Green, KY",1134,509,0.012
+Montana,14580,"Bozeman, MT",1263,634,0.017
+Pennsylvania,14620,"Bradford, PA",527,315,0.032
+Minnesota,14660,"Brainerd, MN",323,137,0.007
+Missouri,14700,"Branson, MO",279,208,0.01
+NA,14710,"Brattleboro, VT",201,161,0.009
+Colorado,14720,"Breckenridge, CO",298,239,0.013
+Washington,14740,"Bremerton-Silverdale-Port Orchard, WA",12744,1696,0.104
+Texas,14780,"Brenham, TX",94,124,0.006
+North Carolina,14820,"Brevard, NC",212,205,0.015
+Connecticut,14860,"Bridgeport-Stamford-Danbury, CT",4219,1217,0.009
+NA,14940,"Brigham City, UT-ID",588,259,0.019
 Mississippi,15020,"Brookhaven, MS",49,78,0.004
-Oregon,15060,"Brookings, OR",106,138,0.017
-South Dakota,15100,"Brookings, SD",110,112,0.006
-Texas,15180,"Brownsville-Harlingen, TX",3911,980,0.022
-Texas,15220,"Brownwood, TX",220,180,0.013
-Georgia,15260,"Brunswick-St. Simons, GA",1978,768,0.042
+Oregon,15060,"Brookings, OR",107,139,0.017
+South Dakota,15100,"Brookings, SD",111,113,0.006
+Texas,15180,"Brownsville-Harlingen, TX",3932,985,0.022
+Texas,15220,"Brownwood, TX",221,181,0.013
+Georgia,15260,"Brunswick-St. Simons, GA",1988,772,0.042
 Ohio,15340,"Bucyrus, OH",0,143,0
-New York,15380,"Buffalo-Cheektowaga, NY",9972,1386,0.018
-Idaho,15420,"Burley, ID",251,182,0.013
-Illinois,15460,"Burlington, IA-IL",351,252,0.017
-Iowa,15460,"Burlington, IA-IL",351,252,0.017
-North Carolina,15500,"Burlington, NC",375,241,0.004
-Vermont,15540,"Burlington-South Burlington, VT",2461,613,0.02
-Montana,15580,"Butte-Silver Bow, MT",620,369,0.039
-Michigan,15620,"Cadillac, MI",398,279,0.019
-Georgia,15660,"Calhoun, GA",283,395,0.011
-Maryland,15700,"Cambridge, MD",208,153,0.014
-Ohio,15740,"Cambridge, OH",121,153,0.008
-Arkansas,15780,"Camden, AR",238,142,0.022
-Kentucky,15820,"Campbellsville, KY",119,119,0.008
-Colorado,15860,"Cañon City, CO",459,309,0.028
+New York,15380,"Buffalo-Cheektowaga, NY",10024,1393,0.018
+Idaho,15420,"Burley, ID",252,183,0.013
+Illinois,15460,"Burlington, IA-IL",352,253,0.017
+Iowa,15460,"Burlington, IA-IL",352,253,0.017
+North Carolina,15500,"Burlington, NC",377,243,0.004
+Vermont,15540,"Burlington-South Burlington, VT",2473,616,0.02
+Montana,15580,"Butte-Silver Bow, MT",623,371,0.039
+Michigan,15620,"Cadillac, MI",400,280,0.019
+Georgia,15660,"Calhoun, GA",284,397,0.011
+Maryland,15700,"Cambridge, MD",209,154,0.014
+Ohio,15740,"Cambridge, OH",122,154,0.008
+Arkansas,15780,"Camden, AR",239,143,0.022
+Kentucky,15820,"Campbellsville, KY",119,120,0.008
+Colorado,15860,"Cañon City, CO",461,310,0.028
 NA,15900,"Canton, IL",119,82,0.009
-Ohio,15940,"Canton-Massillon, OH",1985,656,0.011
-Florida,15980,"Cape Coral-Fort Myers, FL",4486,1071,0.013
-Illinois,16020,"Cape Girardeau, MO-IL",795,440,0.016
-Missouri,16020,"Cape Girardeau, MO-IL",795,440,0.016
-Illinois,16060,"Carbondale, IL",195,135,0.009
-New Mexico,16100,"Carlsbad-Artesia, NM",1339,779,0.054
+Ohio,15940,"Canton-Massillon, OH",1996,660,0.011
+Florida,15980,"Cape Coral-Fort Myers, FL",4509,1077,0.013
+Illinois,16020,"Cape Girardeau, MO-IL",799,442,0.016
+Missouri,16020,"Cape Girardeau, MO-IL",799,442,0.016
+Illinois,16060,"Carbondale, IL",196,136,0.009
+New Mexico,16100,"Carlsbad-Artesia, NM",1346,783,0.054
 Iowa,16140,"Carroll, IA",12,16,0.001
-Nevada,16180,"Carson City, NV",595,368,0.022
-Wyoming,16220,"Casper, WY",677,386,0.018
-Utah,16260,"Cedar City, UT",438,250,0.015
-Iowa,16300,"Cedar Rapids, IA",1576,494,0.012
+Nevada,16180,"Carson City, NV",598,370,0.022
+Wyoming,16220,"Casper, WY",681,388,0.018
+Utah,16260,"Cedar City, UT",440,252,0.015
+Iowa,16300,"Cedar Rapids, IA",1584,496,0.012
 Georgia,16340,"Cedartown, GA",20,40,0.001
-Ohio,16380,"Celina, OH",337,258,0.016
+Ohio,16380,"Celina, OH",339,259,0.016
 Illinois,16460,"Centralia, IL",47,50,0.003
-Washington,16500,"Centralia, WA",643,456,0.019
-Pennsylvania,16540,"Chambersburg, PA",1960,705,0.027
-Illinois,16580,"Champaign-Urbana, IL",1008,438,0.009
-West Virginia,16620,"Charleston, WV",1507,451,0.018
-Illinois,16660,"Charleston-Mattoon, IL",429,356,0.02
-South Carolina,16700,"Charleston-North Charleston, SC",11134,1889,0.027
-North Carolina,16740,"Charlotte-Concord-Gastonia, NC-SC",15984,2160,0.011
-South Carolina,16740,"Charlotte-Concord-Gastonia, NC-SC",15984,2160,0.011
-Virginia,16820,"Charlottesville, VA",2093,707,0.019
-Georgia,16860,"Chattanooga, TN-GA",5309,997,0.02
-Tennessee,16860,"Chattanooga, TN-GA",5309,997,0.02
-Wyoming,16940,"Cheyenne, WY",2282,707,0.051
-Illinois,16980,"Chicago-Naperville-Elgin, IL-IN",64639,4641,0.014
-Indiana,16980,"Chicago-Naperville-Elgin, IL-IN",64639,4641,0.014
-Wisconsin,16980,"Chicago-Naperville-Elgin, IL-IN",64639,4641,0.014
-California,17020,"Chico, CA",1194,473,0.013
-Ohio,17060,"Chillicothe, OH",810,373,0.027
-Indiana,17140,"Cincinnati, OH-KY-IN",18970,2209,0.017
-Kentucky,17140,"Cincinnati, OH-KY-IN",18970,2209,0.017
-Ohio,17140,"Cincinnati, OH-KY-IN",18970,2209,0.017
-West Virginia,17220,"Clarksburg, WV",2035,650,0.056
+Washington,16500,"Centralia, WA",647,459,0.019
+Pennsylvania,16540,"Chambersburg, PA",1970,709,0.027
+Illinois,16580,"Champaign-Urbana, IL",1013,441,0.009
+West Virginia,16620,"Charleston, WV",1515,454,0.018
+Illinois,16660,"Charleston-Mattoon, IL",432,358,0.02
+South Carolina,16700,"Charleston-North Charleston, SC",11192,1899,0.027
+North Carolina,16740,"Charlotte-Concord-Gastonia, NC-SC",16067,2171,0.011
+South Carolina,16740,"Charlotte-Concord-Gastonia, NC-SC",16067,2171,0.011
+Virginia,16820,"Charlottesville, VA",2104,711,0.019
+Georgia,16860,"Chattanooga, TN-GA",5337,1003,0.02
+Tennessee,16860,"Chattanooga, TN-GA",5337,1003,0.02
+Wyoming,16940,"Cheyenne, WY",2294,710,0.051
+Illinois,16980,"Chicago-Naperville-Elgin, IL-IN",64978,4665,0.014
+Indiana,16980,"Chicago-Naperville-Elgin, IL-IN",64978,4665,0.014
+Wisconsin,16980,"Chicago-Naperville-Elgin, IL-IN",64978,4665,0.014
+California,17020,"Chico, CA",1201,476,0.013
+Ohio,17060,"Chillicothe, OH",814,375,0.027
+Indiana,17140,"Cincinnati, OH-KY-IN",19069,2220,0.017
+Kentucky,17140,"Cincinnati, OH-KY-IN",19069,2220,0.017
+Ohio,17140,"Cincinnati, OH-KY-IN",19069,2220,0.017
+West Virginia,17220,"Clarksburg, WV",2046,653,0.055
 Mississippi,17260,"Clarksdale, MS",55,72,0.007
-Kentucky,17300,"Clarksville, TN-KY",6040,1295,0.047
-Tennessee,17300,"Clarksville, TN-KY",6040,1295,0.047
-California,17340,"Clearlake, CA",215,154,0.008
-Mississippi,17380,"Cleveland, MS",0,152,0
-NA,17410,"Cleveland, OH",15773,1743,0.015
-Tennessee,17420,"Cleveland, TN",1019,403,0.018
-Florida,17500,"Clewiston, FL",104,126,0.005
-Iowa,17540,"Clinton, IA",267,202,0.012
-New Mexico,17580,"Clovis, NM",1633,711,0.063
-Puerto Rico,17620,"Coamo, PR",174,161,0.009
-NA,17650,"Cody, WY",560,472,0.039
-Idaho,17660,"Coeur d'Alene, ID",1427,592,0.017
-Michigan,17740,"Coldwater, MI",260,154,0.014
-Texas,17780,"College Station-Bryan, TX",2295,860,0.017
-Colorado,17820,"Colorado Springs, CO",15209,1893,0.042
-Missouri,17860,"Columbia, MO",2054,679,0.019
-South Carolina,17900,"Columbia, SC",10081,1663,0.026
-Alabama,17980,"Columbus, GA-AL",5302,1083,0.042
-Georgia,17980,"Columbus, GA-AL",5302,1083,0.042
-Indiana,18020,"Columbus, IN",285,244,0.007
-Mississippi,18060,"Columbus, MS",985,710,0.04
-Nebraska,18100,"Columbus, NE",195,179,0.009
-Ohio,18140,"Columbus, OH",13162,1642,0.012
-New Hampshire,18180,"Concord, NH",1139,389,0.014
-Indiana,18220,"Connersville, IN",103,145,0.01
-Tennessee,18260,"Cookeville, TN",863,410,0.013
-Oregon,18300,"Coos Bay-North Bend, OR",340,206,0.013
-NA,18340,"Corbin, KY",1363,702,0.025
-Mississippi,18420,"Corinth, MS",137,140,0.009
+Kentucky,17300,"Clarksville, TN-KY",6072,1302,0.047
+Tennessee,17300,"Clarksville, TN-KY",6072,1302,0.047
+California,17340,"Clearlake, CA",216,154,0.008
+Mississippi,17380,"Cleveland, MS",0,153,0
+NA,17410,"Cleveland, OH",15856,1752,0.015
+Tennessee,17420,"Cleveland, TN",1024,405,0.018
+Florida,17500,"Clewiston, FL",104,127,0.005
+Iowa,17540,"Clinton, IA",268,203,0.012
+New Mexico,17580,"Clovis, NM",1642,714,0.063
+NA,17620,"Coamo, PR",174,162,0.009
+NA,17650,"Cody, WY",563,474,0.039
+Idaho,17660,"Coeur d'Alene, ID",1435,595,0.017
+Michigan,17740,"Coldwater, MI",261,155,0.014
+Texas,17780,"College Station-Bryan, TX",2307,865,0.017
+Colorado,17820,"Colorado Springs, CO",15288,1903,0.042
+Missouri,17860,"Columbia, MO",2065,683,0.019
+South Carolina,17900,"Columbia, SC",10134,1671,0.026
+Alabama,17980,"Columbus, GA-AL",5330,1089,0.042
+Georgia,17980,"Columbus, GA-AL",5330,1089,0.042
+Indiana,18020,"Columbus, IN",286,245,0.007
+Mississippi,18060,"Columbus, MS",990,714,0.04
+Nebraska,18100,"Columbus, NE",196,180,0.009
+Ohio,18140,"Columbus, OH",13231,1650,0.012
+New Hampshire,18180,"Concord, NH",1145,391,0.014
+Indiana,18220,"Connersville, IN",103,146,0.01
+Tennessee,18260,"Cookeville, TN",867,412,0.013
+Oregon,18300,"Coos Bay-North Bend, OR",342,208,0.013
+NA,18340,"Corbin, KY",1370,706,0.025
+Mississippi,18420,"Corinth, MS",138,141,0.009
 Georgia,18460,"Cornelia, GA",22,28,0.001
-New York,18500,"Corning, NY",322,126,0.008
-Texas,18580,"Corpus Christi, TX",5135,1255,0.025
-Texas,18620,"Corsicana, TX",250,233,0.01
-New York,18660,"Cortland, NY",381,228,0.018
-Oregon,18700,"Corvallis, OR",965,472,0.02
+New York,18500,"Corning, NY",323,127,0.008
+Texas,18580,"Corpus Christi, TX",5162,1261,0.025
+Texas,18620,"Corsicana, TX",251,234,0.01
+New York,18660,"Cortland, NY",383,230,0.018
+Oregon,18700,"Corvallis, OR",970,474,0.02
 Ohio,18740,"Coshocton, OH",41,54,0.003
-Indiana,18820,"Crawfordsville, IN",38,58,0.002
-California,18860,"Crescent City, CA",285,204,0.025
-Florida,18880,"Crestview-Fort Walton Beach-Destin, FL",5807,1104,0.045
-Tennessee,18900,"Crossville, TN",248,215,0.01
-Alabama,18980,"Cullman, AL",1050,378,0.026
-Maryland,19060,"Cumberland, MD-WV",1419,603,0.038
-West Virginia,19060,"Cumberland, MD-WV",1419,603,0.038
-Texas,19100,"Dallas-Fort Worth-Arlington, TX",57492,4066,0.014
-Georgia,19140,"Dalton, GA",603,308,0.009
-Illinois,19180,"Danville, IL",718,300,0.027
-Kentucky,19220,"Danville, KY",285,220,0.013
-Virginia,19260,"Danville, VA",774,349,0.019
-Alabama,19300,"Daphne-Fairhope-Foley, AL",1467,742,0.013
-Illinois,19340,"Davenport-Moline-Rock Island, IA-IL",5615,1097,0.031
-Iowa,19340,"Davenport-Moline-Rock Island, IA-IL",5615,1097,0.031
-Ohio,19430,"Dayton-Kettering-Beavercreek, OH",15451,1920,0.041
-Alabama,19460,"Decatur, AL",1234,519,0.017
-Illinois,19500,"Decatur, IL",189,158,0.004
-Indiana,19540,"Decatur, IN",164,147,0.011
-Ohio,19580,"Defiance, OH",127,197,0.007
-Texas,19620,"Del Rio, TX",2164,781,0.116
-Florida,19660,"Deltona-Daytona Beach-Ormond Beach, FL",2301,852,0.007
-Colorado,19740,"Denver-Aurora-Centennial, CO",28860,3013,0.018
-Louisiana,19760,"DeRidder, LA",506,194,0.038
-Iowa,19780,"Des Moines-West Des Moines, IA",5246,965,0.014
-NA,19810,"Detroit Lakes, MN",268,107,0.017
-Michigan,19820,"Detroit-Warren-Dearborn, MI",25454,2262,0.013
-North Dakota,19860,"Dickinson, ND",381,364,0.02
-Illinois,19940,"Dixon, IL",367,315,0.025
-Kansas,19980,"Dodge City, KS",542,418,0.034
-Alabama,20020,"Dothan, AL",1413,421,0.022
-Georgia,20060,"Douglas, GA",248,187,0.014
-Delaware,20100,"Dover, DE",2247,715,0.025
-Georgia,20140,"Dublin, GA",1283,607,0.051
-Pennsylvania,20180,"DuBois, PA",481,272,0.014
-Iowa,20220,"Dubuque, IA",518,344,0.01
-Minnesota,20260,"Duluth, MN-WI",1835,410,0.013
-Wisconsin,20260,"Duluth, MN-WI",1835,410,0.013
-Texas,20300,"Dumas, TX",188,241,0.017
-Oklahoma,20340,"Duncan, OK",402,208,0.023
-Colorado,20420,"Durango, CO",565,369,0.019
-Oklahoma,20460,"Durant, OK",1021,309,0.05
-North Carolina,20500,"Durham-Chapel Hill, NC",5453,1429,0.017
-Tennessee,20540,"Dyersburg, TN",403,405,0.026
-Texas,20580,"Eagle Pass, TX",1134,560,0.055
-Maryland,20660,"Easton, MD",339,228,0.019
-Pennsylvania,20700,"East Stroudsburg, PA",1215,435,0.016
-Wisconsin,20740,"Eau Claire, WI",528,321,0.006
-Colorado,20780,"Edwards, CO",232,252,0.007
-Illinois,20820,"Effingham, IL",138,115,0.007
+Indiana,18820,"Crawfordsville, IN",39,58,0.002
+California,18860,"Crescent City, CA",287,205,0.025
+Florida,18880,"Crestview-Fort Walton Beach-Destin, FL",5837,1110,0.045
+Tennessee,18900,"Crossville, TN",249,216,0.01
+Alabama,18980,"Cullman, AL",1055,380,0.026
+Maryland,19060,"Cumberland, MD-WV",1426,606,0.038
+West Virginia,19060,"Cumberland, MD-WV",1426,606,0.038
+Texas,19100,"Dallas-Fort Worth-Arlington, TX",57793,4088,0.014
+Georgia,19140,"Dalton, GA",606,310,0.009
+Illinois,19180,"Danville, IL",721,301,0.027
+Kentucky,19220,"Danville, KY",286,221,0.013
+Virginia,19260,"Danville, VA",778,351,0.019
+Alabama,19300,"Daphne-Fairhope-Foley, AL",1474,746,0.013
+Illinois,19340,"Davenport-Moline-Rock Island, IA-IL",5644,1103,0.031
+Iowa,19340,"Davenport-Moline-Rock Island, IA-IL",5644,1103,0.031
+Ohio,19430,"Dayton-Kettering-Beavercreek, OH",15532,1930,0.041
+Alabama,19460,"Decatur, AL",1241,522,0.017
+Illinois,19500,"Decatur, IL",190,159,0.004
+Indiana,19540,"Decatur, IN",165,148,0.011
+Ohio,19580,"Defiance, OH",128,198,0.007
+Texas,19620,"Del Rio, TX",2175,785,0.116
+Florida,19660,"Deltona-Daytona Beach-Ormond Beach, FL",2313,856,0.007
+Colorado,19740,"Denver-Aurora-Centennial, CO",29011,3029,0.018
+Louisiana,19760,"DeRidder, LA",508,195,0.038
+Iowa,19780,"Des Moines-West Des Moines, IA",5273,970,0.014
+NA,19810,"Detroit Lakes, MN",269,108,0.017
+Michigan,19820,"Detroit-Warren-Dearborn, MI",25587,2274,0.013
+North Dakota,19860,"Dickinson, ND",383,366,0.02
+Illinois,19940,"Dixon, IL",369,317,0.025
+Kansas,19980,"Dodge City, KS",545,420,0.034
+Alabama,20020,"Dothan, AL",1420,423,0.022
+Georgia,20060,"Douglas, GA",249,188,0.014
+Delaware,20100,"Dover, DE",2259,719,0.025
+Georgia,20140,"Dublin, GA",1290,610,0.051
+Pennsylvania,20180,"DuBois, PA",483,274,0.014
+Iowa,20220,"Dubuque, IA",521,346,0.01
+Minnesota,20260,"Duluth, MN-WI",1845,412,0.013
+Wisconsin,20260,"Duluth, MN-WI",1845,412,0.013
+Texas,20300,"Dumas, TX",189,242,0.017
+Oklahoma,20340,"Duncan, OK",404,209,0.023
+Colorado,20420,"Durango, CO",568,371,0.019
+Oklahoma,20460,"Durant, OK",1026,311,0.05
+North Carolina,20500,"Durham-Chapel Hill, NC",5482,1436,0.017
+Tennessee,20540,"Dyersburg, TN",405,407,0.026
+Texas,20580,"Eagle Pass, TX",1140,563,0.055
+Maryland,20660,"Easton, MD",341,230,0.019
+Pennsylvania,20700,"East Stroudsburg, PA",1221,437,0.016
+Wisconsin,20740,"Eau Claire, WI",531,323,0.006
+Colorado,20780,"Edwards, CO",233,253,0.007
+Illinois,20820,"Effingham, IL",139,116,0.007
 Texas,20900,"El Campo, TX",78,75,0.004
-California,20940,"El Centro, CA",2094,945,0.034
-Arkansas,20980,"El Dorado, AR",94,86,0.006
-North Carolina,21020,"Elizabeth City, NC",1095,467,0.062
-Kentucky,21060,"Elizabethtown, KY",3317,842,0.058
-Oklahoma,21120,"Elk City, OK",91,97,0.012
-Indiana,21140,"Elkhart-Goshen, IN",577,357,0.006
-West Virginia,21180,"Elkins, WV",131,137,0.013
-Nevada,21220,"Elko, NV",462,440,0.017
-Washington,21260,"Ellensburg, WA",216,192,0.011
-New York,21300,"Elmira, NY",622,318,0.017
-Texas,21340,"El Paso, TX",15862,2334,0.042
-Kansas,21380,"Emporia, KS",175,163,0.01
-Oklahoma,21420,"Enid, OK",674,363,0.025
-Alabama,21460,"Enterprise, AL",1812,525,0.082
-Pennsylvania,21500,"Erie, PA",1400,464,0.012
-Michigan,21540,"Escanaba, MI",202,123,0.014
-New Mexico,21580,"Española, NM",2614,760,0.161
-Alabama,21640,"Eufaula, AL-GA",222,169,0.024
-Georgia,21640,"Eufaula, AL-GA",222,169,0.024
-Oregon,21660,"Eugene-Springfield, OR",2421,687,0.014
-California,21700,"Eureka-Arcata, CA",1614,736,0.028
-Wyoming,21740,"Evanston, WY-UT",0,144,0
-Indiana,21780,"Evansville, IN",1256,479,0.01
-Kentucky,21780,"Evansville, IN",1256,479,0.01
-Alaska,21820,"Fairbanks-College, AK",1373,472,0.035
-West Virginia,21900,"Fairmont, WV",799,382,0.031
-Nevada,21980,"Fallon, NV",901,608,0.085
-Minnesota,22020,"Fargo, ND-MN",2378,771,0.017
-North Dakota,22020,"Fargo, ND-MN",2378,771,0.017
-Minnesota,22060,"Faribault-Northfield, MN",381,248,0.011
-Missouri,22100,"Farmington, MO",386,238,0.014
-New Mexico,22140,"Farmington, NM",1459,462,0.03
-North Carolina,22180,"Fayetteville, NC",9588,1192,0.066
-NA,22190,"Fayetteville, TN",358,303,0.023
-Arkansas,22220,"Fayetteville-Springdale-Rogers, AR",2615,768,0.009
-Minnesota,22260,"Fergus Falls, MN",209,101,0.007
-Ohio,22300,"Findlay, OH",160,161,0.004
-Arizona,22380,"Flagstaff, AZ",2611,947,0.038
-Michigan,22420,"Flint, MI",1591,607,0.009
-South Carolina,22500,"Florence, SC",864,535,0.01
-Alabama,22520,"Florence-Muscle Shoals, AL",1475,519,0.022
-Wisconsin,22540,"Fond du Lac, WI",154,100,0.003
-North Carolina,22580,"Forest City, NC",265,193,0.009
-Arkansas,22620,"Forrest City, AR",67,89,0.01
-Colorado,22660,"Fort Collins-Loveland, CO",3594,897,0.019
-Iowa,22700,"Fort Dodge, IA",203,153,0.011
-Missouri,22780,"Fort Leonard Wood, MO",2205,797,0.121
-Illinois,22800,"Fort Madison, IA",350,297,0.023
-Iowa,22800,"Fort Madison, IA",350,297,0.023
-Missouri,22800,"Fort Madison, IA",350,297,0.023
-Colorado,22820,"Fort Morgan, CO",77,117,0.006
-Alabama,22840,"Fort Payne, AL",561,317,0.02
-Arkansas,22900,"Fort Smith, AR-OK",907,381,0.009
-Oklahoma,22900,"Fort Smith, AR-OK",907,381,0.009
-Indiana,23060,"Fort Wayne, IN",2171,742,0.01
-Indiana,23140,"Frankfort, IN",328,233,0.021
-Kentucky,23180,"Frankfort, KY",497,318,0.014
-Texas,23240,"Fredericksburg, TX",27,36,0.002
-Illinois,23300,"Freeport, IL",130,108,0.006
-Nebraska,23340,"Fremont, NE",91,123,0.005
-Ohio,23380,"Fremont, OH",224,213,0.008
-California,23420,"Fresno, CA",8353,1806,0.017
-Alabama,23460,"Gadsden, AL",816,421,0.021
-South Carolina,23500,"Gaffney, SC",236,228,0.01
-Florida,23540,"Gainesville, FL",3467,1054,0.022
-Georgia,23580,"Gainesville, GA",912,421,0.009
+California,20940,"El Centro, CA",2105,950,0.034
+Arkansas,20980,"El Dorado, AR",94,87,0.006
+North Carolina,21020,"Elizabeth City, NC",1101,470,0.062
+Kentucky,21060,"Elizabethtown, KY",3334,847,0.058
+Oklahoma,21120,"Elk City, OK",92,98,0.012
+Indiana,21140,"Elkhart-Goshen, IN",580,359,0.006
+West Virginia,21180,"Elkins, WV",132,137,0.013
+Nevada,21220,"Elko, NV",464,443,0.017
+Washington,21260,"Ellensburg, WA",217,193,0.011
+New York,21300,"Elmira, NY",625,319,0.017
+Texas,21340,"El Paso, TX",15945,2347,0.042
+Kansas,21380,"Emporia, KS",176,163,0.01
+Oklahoma,21420,"Enid, OK",678,365,0.024
+Alabama,21460,"Enterprise, AL",1821,528,0.082
+Pennsylvania,21500,"Erie, PA",1407,466,0.012
+Michigan,21540,"Escanaba, MI",203,123,0.014
+New Mexico,21580,"Española, NM",2627,764,0.161
+Alabama,21640,"Eufaula, AL-GA",223,170,0.023
+Georgia,21640,"Eufaula, AL-GA",223,170,0.023
+Oregon,21660,"Eugene-Springfield, OR",2434,690,0.014
+California,21700,"Eureka-Arcata, CA",1623,740,0.028
+Wyoming,21740,"Evanston, WY-UT",0,145,0
+Indiana,21780,"Evansville, IN",1263,482,0.01
+Kentucky,21780,"Evansville, IN",1263,482,0.01
+Alaska,21820,"Fairbanks-College, AK",1380,474,0.035
+West Virginia,21900,"Fairmont, WV",803,384,0.031
+Nevada,21980,"Fallon, NV",905,612,0.085
+Minnesota,22020,"Fargo, ND-MN",2390,775,0.017
+North Dakota,22020,"Fargo, ND-MN",2390,775,0.017
+Minnesota,22060,"Faribault-Northfield, MN",383,250,0.011
+Missouri,22100,"Farmington, MO",388,239,0.014
+New Mexico,22140,"Farmington, NM",1467,464,0.03
+North Carolina,22180,"Fayetteville, NC",9638,1198,0.065
+NA,22190,"Fayetteville, TN",360,305,0.023
+Arkansas,22220,"Fayetteville-Springdale-Rogers, AR",2629,772,0.009
+Minnesota,22260,"Fergus Falls, MN",210,101,0.007
+Ohio,22300,"Findlay, OH",161,162,0.004
+Arizona,22380,"Flagstaff, AZ",2624,952,0.038
+Michigan,22420,"Flint, MI",1599,610,0.009
+South Carolina,22500,"Florence, SC",869,538,0.01
+Alabama,22520,"Florence-Muscle Shoals, AL",1483,522,0.022
+Wisconsin,22540,"Fond du Lac, WI",154,101,0.003
+North Carolina,22580,"Forest City, NC",266,194,0.009
+Arkansas,22620,"Forrest City, AR",68,90,0.01
+Colorado,22660,"Fort Collins-Loveland, CO",3613,902,0.019
+Iowa,22700,"Fort Dodge, IA",204,154,0.011
+Missouri,22780,"Fort Leonard Wood, MO",2216,801,0.12
+Illinois,22800,"Fort Madison, IA",352,299,0.023
+Iowa,22800,"Fort Madison, IA",352,299,0.023
+Missouri,22800,"Fort Madison, IA",352,299,0.023
+Colorado,22820,"Fort Morgan, CO",77,118,0.006
+Alabama,22840,"Fort Payne, AL",564,319,0.02
+Arkansas,22900,"Fort Smith, AR-OK",912,383,0.009
+Oklahoma,22900,"Fort Smith, AR-OK",912,383,0.009
+Indiana,23060,"Fort Wayne, IN",2182,745,0.01
+Indiana,23140,"Frankfort, IN",330,234,0.021
+Kentucky,23180,"Frankfort, KY",500,319,0.014
+Texas,23240,"Fredericksburg, TX",28,37,0.002
+Illinois,23300,"Freeport, IL",130,109,0.006
+Nebraska,23340,"Fremont, NE",92,123,0.005
+Ohio,23380,"Fremont, OH",225,214,0.008
+California,23420,"Fresno, CA",8397,1816,0.017
+Alabama,23460,"Gadsden, AL",821,423,0.021
+South Carolina,23500,"Gaffney, SC",237,229,0.01
+Florida,23540,"Gainesville, FL",3485,1059,0.022
+Georgia,23580,"Gainesville, GA",917,423,0.009
 Texas,23620,"Gainesville, TX",10,19,0
-Illinois,23660,"Galesburg, IL",167,147,0.008
-NA,23680,"Gallipolis, OH",153,189,0.013
-New Mexico,23700,"Gallup, NM",1388,428,0.064
-Kansas,23780,"Garden City, KS",133,118,0.007
-Nevada,23820,"Gardnerville Ranchos, NV-CA",343,276,0.015
-Pennsylvania,23900,"Gettysburg, PA",932,322,0.018
-Wyoming,23940,"Gillette, WY",342,322,0.015
-Kentucky,23980,"Glasgow, KY",276,233,0.014
-New York,24020,"Glens Falls, NY",940,452,0.016
-New York,24100,"Gloversville, NY",302,206,0.012
-North Carolina,24140,"Goldsboro, NC",964,524,0.02
-Texas,24180,"Granbury, TX",311,252,0.011
-Minnesota,24220,"Grand Forks, ND-MN",848,432,0.016
-North Dakota,24220,"Grand Forks, ND-MN",848,432,0.016
-Nebraska,24260,"Grand Island, NE",415,237,0.011
-Colorado,24300,"Grand Junction, CO",1862,662,0.026
+Illinois,23660,"Galesburg, IL",168,148,0.008
+NA,23680,"Gallipolis, OH",154,190,0.013
+New Mexico,23700,"Gallup, NM",1395,430,0.064
+Kansas,23780,"Garden City, KS",134,119,0.007
+Nevada,23820,"Gardnerville Ranchos, NV-CA",345,277,0.015
+Pennsylvania,23900,"Gettysburg, PA",936,324,0.018
+Wyoming,23940,"Gillette, WY",344,324,0.015
+Kentucky,23980,"Glasgow, KY",277,234,0.014
+New York,24020,"Glens Falls, NY",945,454,0.016
+New York,24100,"Gloversville, NY",303,207,0.012
+North Carolina,24140,"Goldsboro, NC",969,527,0.02
+Texas,24180,"Granbury, TX",312,254,0.011
+Minnesota,24220,"Grand Forks, ND-MN",852,434,0.016
+North Dakota,24220,"Grand Forks, ND-MN",852,434,0.016
+Nebraska,24260,"Grand Island, NE",417,239,0.011
+Colorado,24300,"Grand Junction, CO",1872,665,0.026
 Minnesota,24330,"Grand Rapids, MN",32,26,0.002
-Michigan,24340,"Grand Rapids-Wyoming-Kentwood, MI",4781,1203,0.008
-Oregon,24420,"Grants Pass, OR",378,202,0.012
-Kansas,24460,"Great Bend, KS",114,167,0.011
-Montana,24500,"Great Falls, MT",1345,437,0.036
-Colorado,24540,"Greeley, CO",2122,684,0.012
-Wisconsin,24580,"Green Bay, WI",1951,654,0.012
-NA,24600,"Greencastle, IN",521,421,0.033
-Tennessee,24620,"Greeneville, TN",469,364,0.015
-NA,24640,"Greenfield, MA",570,325,0.016
-North Carolina,24660,"Greensboro-High Point, NC",5573,1486,0.015
+Michigan,24340,"Grand Rapids-Wyoming-Kentwood, MI",4806,1209,0.008
+Oregon,24420,"Grants Pass, OR",380,203,0.012
+Kansas,24460,"Great Bend, KS",114,168,0.01
+Montana,24500,"Great Falls, MT",1352,439,0.036
+Colorado,24540,"Greeley, CO",2133,687,0.012
+Wisconsin,24580,"Green Bay, WI",1961,657,0.012
+NA,24600,"Greencastle, IN",523,423,0.033
+Tennessee,24620,"Greeneville, TN",472,366,0.015
+NA,24640,"Greenfield, MA",573,327,0.016
+North Carolina,24660,"Greensboro-High Point, NC",5603,1494,0.015
 Indiana,24700,"Greensburg, IN",0,143,0
-Mississippi,24740,"Greenville, MS",357,308,0.027
-North Carolina,24780,"Greenville, NC",707,504,0.009
-Ohio,24820,"Greenville, OH",285,180,0.013
-South Carolina,24860,"Greenville-Anderson-Greer, SC",5369,1310,0.012
-Mississippi,24900,"Greenwood, MS",396,341,0.027
-South Carolina,24940,"Greenwood, SC",244,185,0.006
-Mississippi,24980,"Grenada, MS",327,331,0.025
-Puerto Rico,25020,"Guayama, PR",0,172,0
-Mississippi,25060,"Gulfport-Biloxi, MS",9147,1431,0.051
-Maryland,25180,"Hagerstown-Martinsburg, MD-WV",6393,1322,0.046
-West Virginia,25180,"Hagerstown-Martinsburg, MD-WV",6393,1322,0.046
-Idaho,25200,"Hailey, ID",228,237,0.014
-Louisiana,25220,"Hammond, LA",1090,635,0.018
-California,25260,"Hanford-Corcoran, CA",869,460,0.017
-Missouri,25300,"Hannibal, MO",227,233,0.013
-Pennsylvania,25420,"Harrisburg-Carlisle, PA",7219,1335,0.024
-Arkansas,25460,"Harrison, AR",358,244,0.018
-Virginia,25500,"Harrisonburg, VA",608,366,0.009
-Connecticut,25540,"Hartford-West Hartford-East Hartford, CT",6490,1361,0.011
-Nebraska,25580,"Hastings, NE",119,95,0.006
-Mississippi,25620,"Hattiesburg, MS",1480,470,0.021
-Kansas,25700,"Hays, KS",64,89,0.004
-Utah,25720,"Heber, UT",528,257,0.013
-Montana,25740,"Helena, MT",1891,637,0.043
-NA,25770,"Hemlock Farms, PA",516,347,0.02
-NA,25775,"Henderson, KY",129,98,0.005
-North Carolina,25780,"Henderson, NC",388,309,0.022
-Oregon,25840,"Hermiston-Pendleton, OR",857,460,0.022
-NA,25850,"Hermitage, PA",813,438,0.017
-North Carolina,25860,"Hickory-Lenoir-Morganton, NC",2064,845,0.012
-Michigan,25880,"Hillsdale, MI",158,96,0.008
-Hawaii,25900,"Hilo-Kailua, HI",1218,517,0.015
-South Carolina,25940,"Hilton Head Island-Bluffton-Port Royal, SC",1968,851,0.021
-Georgia,25980,"Hinesville, GA",1669,608,0.055
-New Mexico,26020,"Hobbs, NM",484,350,0.015
-Michigan,26090,"Holland, MI",569,359,0.01
-Florida,26140,"Homosassa Springs, FL",597,348,0.011
+Mississippi,24740,"Greenville, MS",359,310,0.027
+North Carolina,24780,"Greenville, NC",711,506,0.009
+Ohio,24820,"Greenville, OH",286,181,0.013
+South Carolina,24860,"Greenville-Anderson-Greer, SC",5397,1316,0.012
+Mississippi,24900,"Greenwood, MS",399,343,0.027
+South Carolina,24940,"Greenwood, SC",245,186,0.006
+Mississippi,24980,"Grenada, MS",328,332,0.025
+NA,25020,"Guayama, PR",0,173,0
+Mississippi,25060,"Gulfport-Biloxi, MS",9195,1438,0.051
+Maryland,25180,"Hagerstown-Martinsburg, MD-WV",6426,1329,0.045
+West Virginia,25180,"Hagerstown-Martinsburg, MD-WV",6426,1329,0.045
+Idaho,25200,"Hailey, ID",230,239,0.014
+Louisiana,25220,"Hammond, LA",1096,638,0.018
+California,25260,"Hanford-Corcoran, CA",874,463,0.017
+Missouri,25300,"Hannibal, MO",228,234,0.013
+Pennsylvania,25420,"Harrisburg-Carlisle, PA",7257,1342,0.024
+Arkansas,25460,"Harrison, AR",360,245,0.018
+Virginia,25500,"Harrisonburg, VA",612,368,0.009
+Connecticut,25540,"Hartford-West Hartford-East Hartford, CT",6524,1368,0.011
+Nebraska,25580,"Hastings, NE",119,96,0.006
+Mississippi,25620,"Hattiesburg, MS",1487,472,0.021
+Kansas,25700,"Hays, KS",65,90,0.004
+Utah,25720,"Heber, UT",531,259,0.013
+Montana,25740,"Helena, MT",1900,641,0.043
+NA,25770,"Hemlock Farms, PA",519,349,0.02
+NA,25775,"Henderson, KY",130,99,0.005
+North Carolina,25780,"Henderson, NC",390,311,0.022
+Oregon,25840,"Hermiston-Pendleton, OR",862,463,0.022
+NA,25850,"Hermitage, PA",817,441,0.017
+North Carolina,25860,"Hickory-Lenoir-Morganton, NC",2075,850,0.012
+Michigan,25880,"Hillsdale, MI",159,97,0.008
+Hawaii,25900,"Hilo-Kailua, HI",1224,520,0.014
+South Carolina,25940,"Hilton Head Island-Bluffton-Port Royal, SC",1978,855,0.021
+Georgia,25980,"Hinesville, GA",1678,611,0.054
+New Mexico,26020,"Hobbs, NM",487,352,0.015
+Michigan,26090,"Holland, MI",572,361,0.01
+Florida,26140,"Homosassa Springs, FL",601,350,0.011
 Oregon,26220,"Hood River, OR",32,51,0.003
-Arkansas,26300,"Hot Springs, AR",486,355,0.012
-Michigan,26340,"Houghton, MI",163,166,0.009
-Louisiana,26380,"Houma-Bayou Cane-Thibodaux, LA",853,473,0.01
-Texas,26420,"Houston-Pasadena-The Woodlands, TX",41345,3709,0.012
-New York,26460,"Hudson, NY",375,364,0.014
-Pennsylvania,26500,"Huntingdon, PA",297,207,0.018
-Indiana,26540,"Huntington, IN",132,117,0.007
-Kentucky,26580,"Huntington-Ashland, WV-KY-OH",3788,880,0.025
-Ohio,26580,"Huntington-Ashland, WV-KY-OH",3788,880,0.025
-West Virginia,26580,"Huntington-Ashland, WV-KY-OH",3788,880,0.025
-Alabama,26620,"Huntsville, AL",17046,1999,0.067
-Texas,26660,"Huntsville, TX",425,440,0.014
-South Dakota,26700,"Huron, SD",261,151,0.027
+Arkansas,26300,"Hot Springs, AR",488,357,0.012
+Michigan,26340,"Houghton, MI",164,167,0.009
+Louisiana,26380,"Houma-Bayou Cane-Thibodaux, LA",858,475,0.01
+Texas,26420,"Houston-Pasadena-The Woodlands, TX",41561,3728,0.012
+New York,26460,"Hudson, NY",376,365,0.014
+Pennsylvania,26500,"Huntingdon, PA",299,208,0.018
+Indiana,26540,"Huntington, IN",133,117,0.007
+Kentucky,26580,"Huntington-Ashland, WV-KY-OH",3808,885,0.025
+Ohio,26580,"Huntington-Ashland, WV-KY-OH",3808,885,0.025
+West Virginia,26580,"Huntington-Ashland, WV-KY-OH",3808,885,0.025
+Alabama,26620,"Huntsville, AL",17135,2009,0.067
+Texas,26660,"Huntsville, TX",428,443,0.014
+South Dakota,26700,"Huron, SD",263,152,0.027
 Kansas,26740,"Hutchinson, KS",69,68,0.002
-Minnesota,26780,"Hutchinson, MN",123,112,0.007
-Idaho,26820,"Idaho Falls, ID",3568,871,0.047
-Pennsylvania,26860,"Indiana, PA",272,198,0.008
-Indiana,26900,"Indianapolis-Carmel-Greenwood, IN",19936,2404,0.019
-Iowa,26980,"Iowa City, IA",1273,463,0.013
-Michigan,27020,"Iron Mountain, MI-WI",724,288,0.054
-Wisconsin,27020,"Iron Mountain, MI-WI",724,288,0.054
-New York,27060,"Ithaca, NY",350,305,0.007
-Michigan,27100,"Jackson, MI",492,207,0.007
-Mississippi,27140,"Jackson, MS",4959,1103,0.018
-Tennessee,27180,"Jackson, TN",919,445,0.012
-Idaho,27220,"Jackson, WY-ID",543,492,0.028
-Wyoming,27220,"Jackson, WY-ID",543,492,0.028
-Florida,27260,"Jacksonville, FL",22789,3720,0.029
-Illinois,27300,"Jacksonville, IL",123,119,0.008
-North Carolina,27340,"Jacksonville, NC",5980,1397,0.083
-Texas,27380,"Jacksonville, TX",129,145,0.006
-North Dakota,27420,"Jamestown, ND",193,178,0.019
-New York,27460,"Jamestown-Dunkirk, NY",473,244,0.009
-Wisconsin,27500,"Janesville-Beloit, WI",684,335,0.009
-Indiana,27540,"Jasper, IN",260,271,0.012
-Georgia,27600,"Jefferson, GA",475,370,0.011
-Missouri,27620,"Jefferson City, MO",1091,475,0.016
-Georgia,27700,"Jesup, GA",194,151,0.016
-Tennessee,27740,"Johnson City, TN",2496,748,0.027
-Pennsylvania,27780,"Johnstown, PA",1130,405,0.02
-Arkansas,27860,"Jonesboro, AR",582,315,0.01
-Missouri,27900,"Joplin, MO-KS",857,345,0.009
-Alaska,27940,"Juneau, AK",444,267,0.026
-Hawaii,27980,"Kahului-Wailuku, HI",945,410,0.012
-Michigan,28020,"Kalamazoo-Portage, MI",1193,486,0.009
-Montana,28060,"Kalispell, MT",1417,519,0.025
-Illinois,28100,"Kankakee, IL",328,259,0.007
-Kansas,28140,"Kansas City, MO-KS",27162,2632,0.024
-Missouri,28140,"Kansas City, MO-KS",27162,2632,0.024
-Hawaii,28180,"Kapaa, HI",624,365,0.017
-Nebraska,28260,"Kearney, NE",462,258,0.015
-New Hampshire,28300,"Keene, NH",396,313,0.01
-Indiana,28340,"Kendallville, IN",305,223,0.014
-Missouri,28380,"Kennett, MO",148,132,0.014
-Washington,28420,"Kennewick-Richland, WA",3821,947,0.028
-NA,28450,"Kenosha, WI",2065,877,0.024
+Minnesota,26780,"Hutchinson, MN",123,113,0.007
+Idaho,26820,"Idaho Falls, ID",3586,876,0.047
+Pennsylvania,26860,"Indiana, PA",273,199,0.008
+Indiana,26900,"Indianapolis-Carmel-Greenwood, IN",20041,2417,0.019
+Iowa,26980,"Iowa City, IA",1280,465,0.013
+Michigan,27020,"Iron Mountain, MI-WI",728,290,0.054
+Wisconsin,27020,"Iron Mountain, MI-WI",728,290,0.054
+New York,27060,"Ithaca, NY",352,306,0.007
+Michigan,27100,"Jackson, MI",494,208,0.007
+Mississippi,27140,"Jackson, MS",4985,1109,0.018
+Tennessee,27180,"Jackson, TN",923,448,0.012
+Idaho,27220,"Jackson, WY-ID",545,494,0.028
+Wyoming,27220,"Jackson, WY-ID",545,494,0.028
+Florida,27260,"Jacksonville, FL",22909,3739,0.029
+Illinois,27300,"Jacksonville, IL",124,120,0.008
+North Carolina,27340,"Jacksonville, NC",6011,1405,0.083
+Texas,27380,"Jacksonville, TX",130,145,0.006
+North Dakota,27420,"Jamestown, ND",194,179,0.019
+New York,27460,"Jamestown-Dunkirk, NY",475,245,0.009
+Wisconsin,27500,"Janesville-Beloit, WI",687,337,0.008
+Indiana,27540,"Jasper, IN",261,272,0.012
+Georgia,27600,"Jefferson, GA",477,372,0.011
+Missouri,27620,"Jefferson City, MO",1096,477,0.016
+Georgia,27700,"Jesup, GA",195,152,0.016
+Tennessee,27740,"Johnson City, TN",2509,752,0.027
+Pennsylvania,27780,"Johnstown, PA",1136,407,0.02
+Arkansas,27860,"Jonesboro, AR",585,317,0.01
+Missouri,27900,"Joplin, MO-KS",862,347,0.009
+Alaska,27940,"Juneau, AK",446,268,0.026
+Hawaii,27980,"Kahului-Wailuku, HI",950,412,0.012
+Michigan,28020,"Kalamazoo-Portage, MI",1199,488,0.009
+Montana,28060,"Kalispell, MT",1425,521,0.025
+Illinois,28100,"Kankakee, IL",330,261,0.007
+Kansas,28140,"Kansas City, MO-KS",27304,2646,0.024
+Missouri,28140,"Kansas City, MO-KS",27304,2646,0.024
+Hawaii,28180,"Kapaa, HI",627,367,0.017
+Nebraska,28260,"Kearney, NE",465,259,0.015
+New Hampshire,28300,"Keene, NH",399,314,0.01
+Indiana,28340,"Kendallville, IN",306,224,0.014
+Missouri,28380,"Kennett, MO",149,133,0.014
+Washington,28420,"Kennewick-Richland, WA",3841,952,0.028
+NA,28450,"Kenosha, WI",2076,882,0.024
 Texas,28500,"Kerrville, TX",101,106,0.004
-Florida,28580,"Key West-Key Largo, FL",808,466,0.021
-North Carolina,28620,"Kill Devil Hills, NC",377,270,0.021
-Texas,28660,"Killeen-Temple, TX",10571,1757,0.054
-NA,28680,"Kingsland, GA",1685,515,0.08
-Tennessee,28700,"Kingsport-Bristol, TN-VA",1468,575,0.011
-Virginia,28700,"Kingsport-Bristol, TN-VA",1468,575,0.011
-New York,28740,"Kingston, NY",670,335,0.008
-Texas,28780,"Kingsville, TX",554,414,0.038
-North Carolina,28820,"Kinston, NC",440,364,0.021
-Missouri,28860,"Kirksville, MO",317,220,0.025
-NA,28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",5532,1101,0.017
-Oregon,28900,"Klamath Falls, OR",932,460,0.037
-Tennessee,28940,"Knoxville, TN",10750,1537,0.024
-Indiana,29020,"Kokomo, IN",370,292,0.01
-New Hampshire,29060,"Laconia, NH",641,457,0.02
-Minnesota,29100,"La Crosse-Onalaska, WI-MN",1362,479,0.016
-Wisconsin,29100,"La Crosse-Onalaska, WI-MN",1362,479,0.016
-Louisiana,29180,"Lafayette, LA",2000,668,0.011
-Indiana,29200,"Lafayette-West Lafayette, IN",988,379,0.009
-Oregon,29260,"La Grande, OR",79,104,0.007
-Alabama,29300,"LaGrange, GA-AL",562,393,0.013
-Georgia,29300,"LaGrange, GA-AL",562,393,0.013
-Louisiana,29340,"Lake Charles, LA",680,533,0.007
-Florida,29380,"Lake City, FL",1247,663,0.043
-Arizona,29420,"Lake Havasu City-Kingman, AZ",1532,631,0.021
-Florida,29460,"Lakeland-Winter Haven, FL",3094,984,0.009
-NA,29470,"Lake of the Woods, VA",682,348,0.041
-Pennsylvania,29540,"Lancaster, PA",2488,788,0.009
-Michigan,29620,"Lansing-East Lansing, MI",2402,545,0.01
-Wyoming,29660,"Laramie, WY",319,276,0.015
-Texas,29700,"Laredo, TX",2373,738,0.021
+Florida,28580,"Key West-Key Largo, FL",812,469,0.021
+North Carolina,28620,"Kill Devil Hills, NC",379,271,0.021
+Texas,28660,"Killeen-Temple, TX",10627,1766,0.054
+NA,28680,"Kingsland, GA",1694,518,0.079
+Tennessee,28700,"Kingsport-Bristol, TN-VA",1476,578,0.011
+Virginia,28700,"Kingsport-Bristol, TN-VA",1476,578,0.011
+New York,28740,"Kingston, NY",673,337,0.008
+Texas,28780,"Kingsville, TX",556,416,0.038
+North Carolina,28820,"Kinston, NC",442,365,0.021
+Missouri,28860,"Kirksville, MO",319,221,0.025
+NA,28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",5561,1107,0.017
+Oregon,28900,"Klamath Falls, OR",937,462,0.037
+Tennessee,28940,"Knoxville, TN",10806,1545,0.024
+Indiana,29020,"Kokomo, IN",372,293,0.01
+New Hampshire,29060,"Laconia, NH",644,459,0.02
+Minnesota,29100,"La Crosse-Onalaska, WI-MN",1369,482,0.016
+Wisconsin,29100,"La Crosse-Onalaska, WI-MN",1369,482,0.016
+Louisiana,29180,"Lafayette, LA",2010,672,0.011
+Indiana,29200,"Lafayette-West Lafayette, IN",994,381,0.009
+Oregon,29260,"La Grande, OR",79,105,0.007
+Alabama,29300,"LaGrange, GA-AL",565,395,0.013
+Georgia,29300,"LaGrange, GA-AL",565,395,0.013
+Louisiana,29340,"Lake Charles, LA",683,536,0.006
+Florida,29380,"Lake City, FL",1254,666,0.043
+Arizona,29420,"Lake Havasu City-Kingman, AZ",1540,634,0.021
+Florida,29460,"Lakeland-Winter Haven, FL",3110,990,0.009
+NA,29470,"Lake of the Woods, VA",685,350,0.041
+Pennsylvania,29540,"Lancaster, PA",2501,792,0.009
+Michigan,29620,"Lansing-East Lansing, MI",2415,548,0.01
+Wyoming,29660,"Laramie, WY",321,278,0.015
+Texas,29700,"Laredo, TX",2386,742,0.021
 NA,29720,"Lares, PR",58,94,0.006
-New Mexico,29740,"Las Cruces, NM",4697,1127,0.049
-New Mexico,29780,"Las Vegas, NM",337,247,0.025
-Nevada,29820,"Las Vegas-Henderson-North Las Vegas, NV",19605,1966,0.018
-Mississippi,29860,"Laurel, MS",209,217,0.006
-North Carolina,29900,"Laurinburg, NC",119,105,0.01
-Kansas,29940,"Lawrence, KS",856,469,0.014
-Tennessee,29980,"Lawrenceburg, TN",347,232,0.017
-Oklahoma,30020,"Lawton, OK",3727,526,0.085
-Missouri,30060,"Lebanon, MO",632,469,0.04
-Pennsylvania,30140,"Lebanon, PA",1396,608,0.02
-NA,30150,"Lebanon-Claremont, NH-VT",1806,555,0.016
-NA,30180,"Le Mars, IA",357,261,0.028
-Pennsylvania,30260,"Lewisburg, PA",335,299,0.02
-Tennessee,30280,"Lewisburg, TN",124,153,0.007
-Idaho,30300,"Lewiston, ID-WA",340,187,0.012
-Washington,30300,"Lewiston, ID-WA",340,187,0.012
-Maine,30340,"Lewiston-Auburn, ME",255,174,0.005
-Pennsylvania,30380,"Lewistown, PA",112,93,0.006
-Nebraska,30420,"Lexington, NE",189,184,0.016
-Kentucky,30460,"Lexington-Fayette, KY",4451,1021,0.017
-NA,30500,"Lexington Park, MD",13142,1779,0.126
-Kansas,30580,"Liberal, KS",52,88,0.005
-Ohio,30620,"Lima, OH",290,178,0.006
+New Mexico,29740,"Las Cruces, NM",4721,1133,0.049
+New Mexico,29780,"Las Vegas, NM",339,248,0.025
+Nevada,29820,"Las Vegas-Henderson-North Las Vegas, NV",19708,1976,0.018
+Mississippi,29860,"Laurel, MS",210,219,0.006
+North Carolina,29900,"Laurinburg, NC",119,106,0.01
+Kansas,29940,"Lawrence, KS",861,471,0.014
+Tennessee,29980,"Lawrenceburg, TN",349,233,0.017
+Oklahoma,30020,"Lawton, OK",3746,529,0.085
+Missouri,30060,"Lebanon, MO",636,472,0.039
+Pennsylvania,30140,"Lebanon, PA",1403,612,0.02
+NA,30150,"Lebanon-Claremont, NH-VT",1816,558,0.016
+NA,30180,"Le Mars, IA",359,263,0.028
+Pennsylvania,30260,"Lewisburg, PA",337,301,0.02
+Tennessee,30280,"Lewisburg, TN",125,154,0.007
+Idaho,30300,"Lewiston, ID-WA",341,188,0.012
+Washington,30300,"Lewiston, ID-WA",341,188,0.012
+Maine,30340,"Lewiston-Auburn, ME",257,174,0.005
+Pennsylvania,30380,"Lewistown, PA",113,93,0.006
+Nebraska,30420,"Lexington, NE",190,185,0.016
+Kentucky,30460,"Lexington-Fayette, KY",4475,1026,0.017
+NA,30500,"Lexington Park, MD",13211,1789,0.126
+Kansas,30580,"Liberal, KS",52,89,0.005
+Ohio,30620,"Lima, OH",292,179,0.006
 Illinois,30660,"Lincoln, IL",73,49,0.006
-Nebraska,30700,"Lincoln, NE",3054,663,0.017
-Arkansas,30780,"Little Rock-North Little Rock-Conway, AR",7524,1327,0.022
-Pennsylvania,30820,"Lock Haven, PA",198,104,0.012
-Idaho,30860,"Logan, UT-ID",1162,424,0.015
-Utah,30860,"Logan, UT-ID",1162,424,0.015
+Nebraska,30700,"Lincoln, NE",3070,666,0.017
+Arkansas,30780,"Little Rock-North Little Rock-Conway, AR",7564,1334,0.022
+Pennsylvania,30820,"Lock Haven, PA",199,104,0.012
+Idaho,30860,"Logan, UT-ID",1168,426,0.015
+Utah,30860,"Logan, UT-ID",1168,426,0.015
 Indiana,30900,"Logansport, IN",64,78,0.004
-Texas,30980,"Longview, TX",1394,780,0.011
-Washington,31020,"Longview-Kelso, WA",508,372,0.011
-California,31080,"Los Angeles-Long Beach-Anaheim, CA",68746,3848,0.011
-Indiana,31140,"Louisville/Jefferson County, KY-IN",8876,1423,0.014
-Kentucky,31140,"Louisville/Jefferson County, KY-IN",8876,1423,0.014
-Texas,31180,"Lubbock, TX",2105,588,0.012
-Michigan,31220,"Ludington, MI",32,40,0.003
-Texas,31260,"Lufkin, TX",181,193,0.005
-North Carolina,31300,"Lumberton, NC",686,290,0.017
-Virginia,31340,"Lynchburg, VA",1661,577,0.014
+Texas,30980,"Longview, TX",1401,784,0.011
+Washington,31020,"Longview-Kelso, WA",510,374,0.011
+California,31080,"Los Angeles-Long Beach-Anaheim, CA",69106,3868,0.011
+Indiana,31140,"Louisville/Jefferson County, KY-IN",8923,1431,0.014
+Kentucky,31140,"Louisville/Jefferson County, KY-IN",8923,1431,0.014
+Texas,31180,"Lubbock, TX",2116,591,0.012
+Michigan,31220,"Ludington, MI",32,41,0.003
+Texas,31260,"Lufkin, TX",182,194,0.005
+North Carolina,31300,"Lumberton, NC",690,292,0.017
+Virginia,31340,"Lynchburg, VA",1670,580,0.014
 Illinois,31380,"Macomb, IL",34,47,0.003
-Georgia,31420,"Macon-Bibb County, GA",3079,871,0.032
+Georgia,31420,"Macon-Bibb County, GA",3095,876,0.032
 Indiana,31500,"Madison, IN",0,143,0
-Wisconsin,31540,"Madison, WI",3779,889,0.01
-Kentucky,31580,"Madisonville, KY",147,132,0.008
-Arkansas,31620,"Magnolia, AR",103,145,0.011
-Arkansas,31680,"Malvern, AR",100,107,0.008
-New Hampshire,31700,"Manchester-Nashua, NH",3446,1040,0.015
-Kansas,31740,"Manhattan, KS",2909,804,0.052
-Wisconsin,31820,"Manitowoc, WI",289,191,0.007
-Minnesota,31860,"Mankato, MN",225,137,0.004
-Ohio,31900,"Mansfield, OH",425,263,0.008
-Ohio,31930,"Marietta, OH",662,288,0.026
-Michigan,31940,"Marinette, WI-MI",348,154,0.012
-Wisconsin,31940,"Marinette, WI-MI",348,154,0.012
-Indiana,31980,"Marion, IN",1314,629,0.048
-North Carolina,32000,"Marion, NC",549,328,0.031
-Ohio,32020,"Marion, OH",239,241,0.009
-NA,32060,"Marion-Herrin, IL",857,416,0.03
-Michigan,32100,"Marquette, MI",416,204,0.014
-Minnesota,32140,"Marshall, MN",118,100,0.01
-Missouri,32180,"Marshall, MO",149,134,0.014
-Iowa,32260,"Marshalltown, IA",382,206,0.02
-Tennessee,32280,"Martin, TN",82,91,0.005
-Virginia,32300,"Martinsville, VA",250,185,0.01
-Missouri,32340,"Maryville, MO",202,143,0.021
-Iowa,32380,"Mason City, IA",56,59,0.002
-NA,32390,"Massena-Ogdensburg, NY",323,160,0.007
-Puerto Rico,32420,"Mayagüez, PR",388,239,0.006
-Kentucky,32460,"Mayfield, KY",242,215,0.016
-Oklahoma,32540,"McAlester, OK",1235,281,0.076
-Texas,32580,"McAllen-Edinburg-Mission, TX",7250,1246,0.02
-Mississippi,32620,"McComb, MS",543,408,0.029
-Tennessee,32660,"McMinnville, TN",566,383,0.031
-Kansas,32700,"McPherson, KS",239,246,0.015
-Pennsylvania,32740,"Meadville, PA",209,123,0.006
-Oregon,32780,"Medford, OR",1270,550,0.013
-Arkansas,32820,"Memphis, TN-MS-AR",14834,2407,0.024
-Mississippi,32820,"Memphis, TN-MS-AR",14834,2407,0.024
-Tennessee,32820,"Memphis, TN-MS-AR",14834,2407,0.024
-Wisconsin,32860,"Menomonie, WI",192,126,0.008
-California,32900,"Merced, CA",872,447,0.008
-Mississippi,32940,"Meridian, MS",1471,660,0.043
-Missouri,33020,"Mexico, MO",148,181,0.017
-Oklahoma,33060,"Miami, OK",591,153,0.051
-Florida,33100,"Miami-Fort Lauderdale-West Palm Beach, FL",34495,3398,0.011
-Indiana,33140,"Michigan City-La Porte, IN",67,71,0.001
-Kentucky,33180,"Middlesborough, KY",104,123,0.013
-Michigan,33220,"Midland, MI",327,186,0.009
-Texas,33260,"Midland, TX",908,587,0.01
-Georgia,33300,"Milledgeville, GA",226,169,0.013
-Wisconsin,33340,"Milwaukee-Waukesha, WI",7073,1091,0.009
-Louisiana,33380,"Minden, LA",153,143,0.011
-Texas,33420,"Mineral Wells, TX",65,82,0.005
-Minnesota,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",20152,2321,0.01
-Wisconsin,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",20152,2321,0.01
-North Dakota,33500,"Minot, ND",1262,659,0.038
-Montana,33540,"Missoula, MT",1168,414,0.017
-South Dakota,33580,"Mitchell, SD",168,104,0.014
+Wisconsin,31540,"Madison, WI",3799,894,0.01
+Kentucky,31580,"Madisonville, KY",148,132,0.008
+Arkansas,31620,"Magnolia, AR",103,146,0.011
+Arkansas,31680,"Malvern, AR",101,108,0.008
+New Hampshire,31700,"Manchester-Nashua, NH",3464,1045,0.015
+Kansas,31740,"Manhattan, KS",2924,808,0.052
+Wisconsin,31820,"Manitowoc, WI",291,192,0.007
+Minnesota,31860,"Mankato, MN",226,138,0.004
+Ohio,31900,"Mansfield, OH",428,265,0.008
+Ohio,31930,"Marietta, OH",665,290,0.026
+Michigan,31940,"Marinette, WI-MI",350,155,0.012
+Wisconsin,31940,"Marinette, WI-MI",350,155,0.012
+Indiana,31980,"Marion, IN",1321,632,0.048
+North Carolina,32000,"Marion, NC",552,330,0.031
+Ohio,32020,"Marion, OH",240,242,0.009
+NA,32060,"Marion-Herrin, IL",862,418,0.03
+Michigan,32100,"Marquette, MI",418,205,0.014
+Minnesota,32140,"Marshall, MN",119,101,0.01
+Missouri,32180,"Marshall, MO",150,135,0.014
+Iowa,32260,"Marshalltown, IA",384,207,0.02
+Tennessee,32280,"Martin, TN",83,91,0.005
+Virginia,32300,"Martinsville, VA",252,185,0.01
+Missouri,32340,"Maryville, MO",203,144,0.02
+Iowa,32380,"Mason City, IA",57,59,0.002
+NA,32390,"Massena-Ogdensburg, NY",325,161,0.007
+NA,32420,"Mayagüez, PR",390,241,0.006
+Kentucky,32460,"Mayfield, KY",243,216,0.016
+Oklahoma,32540,"McAlester, OK",1241,283,0.076
+Texas,32580,"McAllen-Edinburg-Mission, TX",7288,1253,0.02
+Mississippi,32620,"McComb, MS",545,410,0.029
+Tennessee,32660,"McMinnville, TN",569,385,0.031
+Kansas,32700,"McPherson, KS",241,248,0.015
+Pennsylvania,32740,"Meadville, PA",210,123,0.006
+Oregon,32780,"Medford, OR",1277,553,0.013
+Arkansas,32820,"Memphis, TN-MS-AR",14912,2420,0.024
+Mississippi,32820,"Memphis, TN-MS-AR",14912,2420,0.024
+Tennessee,32820,"Memphis, TN-MS-AR",14912,2420,0.024
+Wisconsin,32860,"Menomonie, WI",193,127,0.008
+California,32900,"Merced, CA",876,450,0.007
+Mississippi,32940,"Meridian, MS",1479,663,0.043
+Missouri,33020,"Mexico, MO",149,182,0.017
+Oklahoma,33060,"Miami, OK",594,154,0.051
+Florida,33100,"Miami-Fort Lauderdale-West Palm Beach, FL",34675,3416,0.011
+Indiana,33140,"Michigan City-La Porte, IN",68,72,0.001
+Kentucky,33180,"Middlesborough, KY",105,123,0.013
+Michigan,33220,"Midland, MI",328,187,0.009
+Texas,33260,"Midland, TX",913,590,0.01
+Georgia,33300,"Milledgeville, GA",228,170,0.013
+Wisconsin,33340,"Milwaukee-Waukesha, WI",7110,1096,0.009
+Louisiana,33380,"Minden, LA",154,143,0.011
+Texas,33420,"Mineral Wells, TX",66,83,0.005
+Minnesota,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",20257,2333,0.01
+Wisconsin,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",20257,2333,0.01
+North Dakota,33500,"Minot, ND",1269,662,0.038
+Montana,33540,"Missoula, MT",1174,416,0.017
+South Dakota,33580,"Mitchell, SD",169,104,0.014
 Missouri,33620,"Moberly, MO",106,117,0.009
-Alabama,33660,"Mobile, AL",3273,794,0.018
-California,33700,"Modesto, CA",2365,867,0.01
-Louisiana,33740,"Monroe, LA",1272,665,0.014
-Michigan,33780,"Monroe, MI",556,240,0.008
-Alabama,33860,"Montgomery, AL",6128,1392,0.038
+Alabama,33660,"Mobile, AL",3290,799,0.018
+California,33700,"Modesto, CA",2377,872,0.01
+Louisiana,33740,"Monroe, LA",1279,668,0.014
+Michigan,33780,"Monroe, MI",559,241,0.008
+Alabama,33860,"Montgomery, AL",6161,1399,0.038
 NA,33900,"Monticello, IN",8,14,0.001
-NA,33910,"Monticello, NY",631,423,0.018
-Colorado,33940,"Montrose, CO",340,324,0.018
-North Carolina,33980,"Morehead City, NC",1836,534,0.057
-Louisiana,34020,"Morgan City, LA",154,122,0.008
-West Virginia,34060,"Morgantown, WV",2246,707,0.033
-Tennessee,34100,"Morristown, TN",953,497,0.017
-Idaho,34140,"Moscow, ID",115,152,0.006
-Washington,34180,"Moses Lake, WA",1006,566,0.023
-Georgia,34220,"Moultrie, GA",75,86,0.004
-Arkansas,34260,"Mountain Home, AR",508,306,0.033
-Idaho,34300,"Mountain Home, ID",709,336,0.062
-North Carolina,34340,"Mount Airy, NC",93,107,0.003
-Michigan,34380,"Mount Pleasant, MI",757,506,0.025
-Texas,34420,"Mount Pleasant, TX",368,311,0.016
-Kentucky,34460,"Mount Sterling, KY",495,623,0.022
-Illinois,34500,"Mount Vernon, IL",124,95,0.008
-Ohio,34540,"Mount Vernon, OH",195,166,0.007
-Washington,34580,"Mount Vernon-Anacortes, WA",947,352,0.016
-Indiana,34620,"Muncie, IN",908,814,0.017
-Kentucky,34660,"Murray, KY",73,86,0.004
-NA,34680,"Murrells Inlet, SC",176,250,0.007
-Iowa,34700,"Muscatine, IA",281,221,0.014
-Michigan,34740,"Muskegon-Norton Shores, MI",390,298,0.005
-Oklahoma,34780,"Muskogee, OK",1870,540,0.076
-North Carolina,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC",1218,572,0.007
-South Carolina,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC",1218,572,0.007
-Texas,34860,"Nacogdoches, TX",64,94,0.002
-California,34900,"Napa, CA",745,362,0.011
-Florida,34940,"Naples-Marco Island, FL",897,499,0.005
-Tennessee,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",16123,2533,0.015
-Louisiana,35020,"Natchez, MS-LA",237,182,0.013
-Mississippi,35020,"Natchez, MS-LA",237,182,0.013
-Louisiana,35060,"Natchitoches, LA",274,165,0.019
-North Carolina,35100,"New Bern, NC",2372,700,0.051
-South Carolina,35140,"Newberry, SC",105,141,0.007
-Indiana,35220,"New Castle, IN",287,227,0.014
-Connecticut,35300,"New Haven, CT",3451,1169,0.012
-NA,35340,"New Iberia, LA",152,160,0.006
-Louisiana,35380,"New Orleans-Metairie, LA",10198,1370,0.023
-Ohio,35420,"New Philadelphia-Dover, OH",241,171,0.006
-Oregon,35440,"Newport, OR",567,296,0.03
-Tennessee,35460,"Newport, TN",174,200,0.012
+NA,33910,"Monticello, NY",634,425,0.018
+Colorado,33940,"Montrose, CO",342,325,0.018
+North Carolina,33980,"Morehead City, NC",1846,537,0.057
+Louisiana,34020,"Morgan City, LA",155,123,0.008
+West Virginia,34060,"Morgantown, WV",2258,710,0.033
+Tennessee,34100,"Morristown, TN",958,500,0.017
+Idaho,34140,"Moscow, ID",116,153,0.006
+Washington,34180,"Moses Lake, WA",1012,569,0.023
+Georgia,34220,"Moultrie, GA",75,87,0.004
+Arkansas,34260,"Mountain Home, AR",511,308,0.033
+Idaho,34300,"Mountain Home, ID",712,338,0.062
+North Carolina,34340,"Mount Airy, NC",94,108,0.003
+Michigan,34380,"Mount Pleasant, MI",761,508,0.025
+Texas,34420,"Mount Pleasant, TX",370,313,0.015
+Kentucky,34460,"Mount Sterling, KY",498,626,0.022
+Illinois,34500,"Mount Vernon, IL",125,96,0.008
+Ohio,34540,"Mount Vernon, OH",196,167,0.007
+Washington,34580,"Mount Vernon-Anacortes, WA",952,354,0.016
+Indiana,34620,"Muncie, IN",912,818,0.017
+Kentucky,34660,"Murray, KY",74,86,0.004
+NA,34680,"Murrells Inlet, SC",177,252,0.007
+Iowa,34700,"Muscatine, IA",282,222,0.014
+Michigan,34740,"Muskegon-Norton Shores, MI",392,300,0.005
+Oklahoma,34780,"Muskogee, OK",1880,543,0.076
+North Carolina,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC",1224,575,0.007
+South Carolina,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC",1224,575,0.007
+Texas,34860,"Nacogdoches, TX",65,94,0.002
+California,34900,"Napa, CA",749,363,0.011
+Florida,34940,"Naples-Marco Island, FL",902,502,0.005
+Tennessee,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",16207,2546,0.015
+Louisiana,35020,"Natchez, MS-LA",239,183,0.013
+Mississippi,35020,"Natchez, MS-LA",239,183,0.013
+Louisiana,35060,"Natchitoches, LA",275,166,0.019
+North Carolina,35100,"New Bern, NC",2384,704,0.051
+South Carolina,35140,"Newberry, SC",106,142,0.007
+Indiana,35220,"New Castle, IN",288,228,0.013
+Connecticut,35300,"New Haven, CT",3469,1175,0.012
+NA,35340,"New Iberia, LA",153,161,0.006
+Louisiana,35380,"New Orleans-Metairie, LA",10252,1377,0.023
+Ohio,35420,"New Philadelphia-Dover, OH",243,172,0.006
+Oregon,35440,"Newport, OR",570,297,0.03
+Tennessee,35460,"Newport, TN",174,201,0.012
 Minnesota,35580,"New Ulm, MN",50,50,0.004
-New Jersey,35620,"New York-Newark-Jersey City, NY-NJ",115431,6353,0.012
-New York,35620,"New York-Newark-Jersey City, NY-NJ",115431,6353,0.012
-Pennsylvania,35620,"New York-Newark-Jersey City, NY-NJ",115431,6353,0.012
-Michigan,35660,"Niles, MI",284,156,0.004
-Arizona,35700,"Nogales, AZ",635,370,0.035
-Nebraska,35740,"Norfolk, NE",232,134,0.009
-Nebraska,35820,"North Platte, NE",266,283,0.016
-Florida,35840,"North Port-Bradenton-Sarasota, FL",2975,893,0.008
-North Carolina,35900,"North Wilkesboro, NC",25,49,0.001
-Ohio,35940,"Norwalk, OH",490,261,0.018
-Connecticut,35980,"Norwich-New London-Willimantic, CT",4226,950,0.032
-Washington,36020,"Oak Harbor, WA",958,458,0.031
-Florida,36100,"Ocala, FL",1235,517,0.008
-NA,36180,"Ocean Pines, MD",427,191,0.017
-Texas,36220,"Odessa, TX",287,258,0.004
-Utah,36260,"Ogden, UT",17449,2071,0.054
-Pennsylvania,36340,"Oil City, PA",566,272,0.028
+New Jersey,35620,"New York-Newark-Jersey City, NY-NJ",116036,6386,0.012
+New York,35620,"New York-Newark-Jersey City, NY-NJ",116036,6386,0.012
+Pennsylvania,35620,"New York-Newark-Jersey City, NY-NJ",116036,6386,0.012
+Michigan,35660,"Niles, MI",285,157,0.004
+Arizona,35700,"Nogales, AZ",639,372,0.035
+Nebraska,35740,"Norfolk, NE",233,135,0.009
+Nebraska,35820,"North Platte, NE",268,285,0.016
+Florida,35840,"North Port-Bradenton-Sarasota, FL",2991,898,0.008
+North Carolina,35900,"North Wilkesboro, NC",26,50,0.001
+Ohio,35940,"Norwalk, OH",492,263,0.018
+Connecticut,35980,"Norwich-New London-Willimantic, CT",4248,955,0.032
+Washington,36020,"Oak Harbor, WA",963,460,0.031
+Florida,36100,"Ocala, FL",1241,520,0.008
+NA,36180,"Ocean Pines, MD",430,192,0.017
+Texas,36220,"Odessa, TX",289,259,0.004
+Utah,36260,"Ogden, UT",17540,2082,0.053
+Pennsylvania,36340,"Oil City, PA",569,274,0.028
 Florida,36380,"Okeechobee, FL",63,128,0.004
-Oklahoma,36420,"Oklahoma City, OK",26419,2386,0.039
-New York,36460,"Olean, NY",393,161,0.013
-Washington,36500,"Olympia-Lacey-Tumwater, WA",3498,924,0.026
-Iowa,36540,"Omaha, NE-IA",10592,1471,0.021
-Nebraska,36540,"Omaha, NE-IA",10592,1471,0.021
-New York,36580,"Oneonta, NY",154,112,0.006
-Idaho,36620,"Ontario, OR-ID",556,325,0.024
-Oregon,36620,"Ontario, OR-ID",556,325,0.024
-Louisiana,36660,"Opelousas, LA",351,261,0.012
-South Carolina,36700,"Orangeburg, SC",257,187,0.008
-Florida,36740,"Orlando-Kissimmee-Sanford, FL",16659,2424,0.012
-Wisconsin,36780,"Oshkosh-Neenah, WI",804,394,0.009
-Iowa,36820,"Oskaloosa, IA",22,38,0.002
-Washington,36830,"Othello, WA",129,137,0.014
-Illinois,36837,"Ottawa, IL",647,315,0.01
-Kansas,36840,"Ottawa, KS",183,182,0.014
-Iowa,36900,"Ottumwa, IA",134,118,0.009
-Minnesota,36940,"Owatonna, MN",123,118,0.007
-Kentucky,36980,"Owensboro, KY",600,301,0.011
-NA,37020,"Owosso, MI",427,225,0.014
-Mississippi,37060,"Oxford, MS",565,406,0.019
-California,37100,"Oxnard-Thousand Oaks-Ventura, CA",8131,1578,0.021
-Alabama,37120,"Ozark, AL",1397,452,0.08
-Illinois,37140,"Paducah, KY-IL",993,466,0.021
-Kentucky,37140,"Paducah, KY-IL",993,466,0.021
-Nevada,37220,"Pahrump, NV",707,589,0.042
-Florida,37260,"Palatka, FL",271,208,0.01
+Oklahoma,36420,"Oklahoma City, OK",26558,2398,0.038
+New York,36460,"Olean, NY",395,161,0.013
+Washington,36500,"Olympia-Lacey-Tumwater, WA",3517,929,0.026
+Iowa,36540,"Omaha, NE-IA",10647,1478,0.021
+Nebraska,36540,"Omaha, NE-IA",10647,1478,0.021
+New York,36580,"Oneonta, NY",154,113,0.006
+Idaho,36620,"Ontario, OR-ID",559,327,0.024
+Oregon,36620,"Ontario, OR-ID",559,327,0.024
+Louisiana,36660,"Opelousas, LA",353,262,0.012
+South Carolina,36700,"Orangeburg, SC",259,188,0.008
+Florida,36740,"Orlando-Kissimmee-Sanford, FL",16746,2437,0.012
+Wisconsin,36780,"Oshkosh-Neenah, WI",808,396,0.009
+Iowa,36820,"Oskaloosa, IA",22,39,0.002
+Washington,36830,"Othello, WA",130,138,0.014
+Illinois,36837,"Ottawa, IL",650,317,0.01
+Kansas,36840,"Ottawa, KS",184,183,0.014
+Iowa,36900,"Ottumwa, IA",134,119,0.009
+Minnesota,36940,"Owatonna, MN",124,119,0.007
+Kentucky,36980,"Owensboro, KY",603,303,0.011
+NA,37020,"Owosso, MI",429,226,0.014
+Mississippi,37060,"Oxford, MS",568,408,0.019
+California,37100,"Oxnard-Thousand Oaks-Ventura, CA",8174,1587,0.021
+Alabama,37120,"Ozark, AL",1404,454,0.08
+Illinois,37140,"Paducah, KY-IL",998,468,0.021
+Kentucky,37140,"Paducah, KY-IL",998,468,0.021
+Nevada,37220,"Pahrump, NV",710,592,0.042
+Florida,37260,"Palatka, FL",272,209,0.01
 Texas,37300,"Palestine, TX",174,115,0.008
-Florida,37340,"Palm Bay-Melbourne-Titusville, FL",6614,1264,0.023
-Texas,37420,"Pampa, TX",81,112,0.009
-Florida,37460,"Panama City-Panama City Beach, FL",4878,1162,0.048
-Arkansas,37500,"Paragould, AR",207,154,0.012
-Tennessee,37540,"Paris, TN",170,150,0.012
-Texas,37580,"Paris, TX",286,233,0.011
-West Virginia,37620,"Parkersburg-Vienna, WV",1487,397,0.04
-Arizona,37740,"Payson, AZ",832,414,0.047
-Iowa,37800,"Pella, IA",268,203,0.016
-Florida,37860,"Pensacola-Ferry Pass-Brent, FL",8002,1408,0.035
-Illinois,37900,"Peoria, IL",2050,665,0.012
-Indiana,37940,"Peru, IN",220,206,0.015
+Florida,37340,"Palm Bay-Melbourne-Titusville, FL",6649,1270,0.023
+Texas,37420,"Pampa, TX",81,113,0.009
+Florida,37460,"Panama City-Panama City Beach, FL",4903,1168,0.048
+Arkansas,37500,"Paragould, AR",208,154,0.012
+Tennessee,37540,"Paris, TN",171,151,0.012
+Texas,37580,"Paris, TX",288,234,0.011
+West Virginia,37620,"Parkersburg-Vienna, WV",1495,399,0.04
+Arizona,37740,"Payson, AZ",836,416,0.047
+Iowa,37800,"Pella, IA",269,204,0.016
+Florida,37860,"Pensacola-Ferry Pass-Brent, FL",8044,1416,0.035
+Illinois,37900,"Peoria, IL",2061,669,0.012
+Indiana,37940,"Peru, IN",221,208,0.015
 NA,37950,"Petoskey, MI",84,66,0.005
-Delaware,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",51880,4382,0.017
-Maryland,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",51880,4382,0.017
-New Jersey,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",51880,4382,0.017
-Pennsylvania,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",51880,4382,0.017
-Arizona,38060,"Phoenix-Mesa-Chandler, AZ",34099,3306,0.014
-Mississippi,38100,"Picayune, MS",502,289,0.021
-NA,38210,"Pikeville, KY",176,147,0.006
-Arkansas,38220,"Pine Bluff, AR",337,213,0.013
-North Carolina,38240,"Pinehurst-Southern Pines, NC",1297,547,0.032
-Kansas,38260,"Pittsburg, KS",355,392,0.018
-Pennsylvania,38300,"Pittsburgh, PA",16894,1974,0.014
-Massachusetts,38340,"Pittsfield, MA",554,335,0.009
-Texas,38380,"Plainview, TX",329,243,0.019
-Wisconsin,38420,"Platteville, WI",178,97,0.007
-New York,38460,"Plattsburgh, NY",251,172,0.007
-Indiana,38500,"Plymouth, IN",224,185,0.01
-Idaho,38540,"Pocatello, ID",755,335,0.019
-Oklahoma,38620,"Ponca City, OK",591,271,0.032
-Puerto Rico,38660,"Ponce, PR",954,419,0.011
-Illinois,38700,"Pontiac, IL",253,137,0.016
-Missouri,38740,"Poplar Bluff, MO",437,351,0.024
-Washington,38820,"Port Angeles, WA",786,403,0.027
-Maine,38860,"Portland-South Portland, ME",5460,1198,0.018
-Oregon,38900,"Portland-Vancouver-Hillsboro, OR-WA",15772,1884,0.012
-Washington,38900,"Portland-Vancouver-Hillsboro, OR-WA",15772,1884,0.012
-Texas,38920,"Port Lavaca, TX",51,93,0.005
-Florida,38940,"Port St. Lucie, FL",2188,731,0.01
-Ohio,39020,"Portsmouth, OH",940,519,0.032
-NA,39040,"Port Townsend, WA",487,354,0.038
-Pennsylvania,39060,"Pottsville, PA",757,287,0.012
-Arizona,39150,"Prescott Valley-Prescott, AZ",743,303,0.008
-Utah,39220,"Price, UT",168,121,0.018
-Massachusetts,39300,"Providence-Warwick, RI-MA",14646,2314,0.018
-Rhode Island,39300,"Providence-Warwick, RI-MA",14646,2314,0.018
-Utah,39340,"Provo-Orem-Lehi, UT",2292,694,0.006
-Colorado,39380,"Pueblo, CO",1598,607,0.022
-Washington,39420,"Pullman, WA",210,209,0.009
-Florida,39460,"Punta Gorda, FL",626,409,0.008
-NA,39480,"Putnam, CT",414,222,0.008
-Illinois,39500,"Quincy, IL-MO",464,254,0.013
-Missouri,39500,"Quincy, IL-MO",464,254,0.013
-Wisconsin,39540,"Racine-Mount Pleasant, WI",804,379,0.009
-North Carolina,39580,"Raleigh-Cary, NC",9436,1583,0.012
-South Dakota,39660,"Rapid City, SD",2470,820,0.033
-Texas,39700,"Raymondville, TX",211,230,0.027
-Pennsylvania,39740,"Reading, PA",1471,521,0.007
-California,39780,"Red Bluff, CA",547,316,0.021
-California,39820,"Redding, CA",1514,543,0.02
+Delaware,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",52151,4405,0.017
+Maryland,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",52151,4405,0.017
+New Jersey,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",52151,4405,0.017
+Pennsylvania,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",52151,4405,0.017
+Arizona,38060,"Phoenix-Mesa-Chandler, AZ",34278,3323,0.014
+Mississippi,38100,"Picayune, MS",505,291,0.021
+NA,38210,"Pikeville, KY",177,148,0.006
+Arkansas,38220,"Pine Bluff, AR",339,214,0.013
+North Carolina,38240,"Pinehurst-Southern Pines, NC",1304,550,0.032
+Kansas,38260,"Pittsburg, KS",357,394,0.018
+Pennsylvania,38300,"Pittsburgh, PA",16982,1985,0.014
+Massachusetts,38340,"Pittsfield, MA",557,337,0.009
+Texas,38380,"Plainview, TX",331,244,0.019
+Wisconsin,38420,"Platteville, WI",179,97,0.007
+New York,38460,"Plattsburgh, NY",252,173,0.007
+Indiana,38500,"Plymouth, IN",225,186,0.01
+Idaho,38540,"Pocatello, ID",759,337,0.019
+Oklahoma,38620,"Ponca City, OK",594,272,0.032
+NA,38660,"Ponce, PR",959,421,0.011
+Illinois,38700,"Pontiac, IL",254,138,0.016
+Missouri,38740,"Poplar Bluff, MO",439,352,0.024
+Washington,38820,"Port Angeles, WA",790,405,0.027
+Maine,38860,"Portland-South Portland, ME",5489,1205,0.018
+Oregon,38900,"Portland-Vancouver-Hillsboro, OR-WA",15854,1894,0.012
+Washington,38900,"Portland-Vancouver-Hillsboro, OR-WA",15854,1894,0.012
+Texas,38920,"Port Lavaca, TX",51,94,0.005
+Florida,38940,"Port St. Lucie, FL",2199,734,0.01
+Ohio,39020,"Portsmouth, OH",945,522,0.032
+NA,39040,"Port Townsend, WA",490,356,0.038
+Pennsylvania,39060,"Pottsville, PA",761,289,0.012
+Arizona,39150,"Prescott Valley-Prescott, AZ",747,304,0.008
+Utah,39220,"Price, UT",169,121,0.018
+Massachusetts,39300,"Providence-Warwick, RI-MA",14723,2327,0.018
+Rhode Island,39300,"Providence-Warwick, RI-MA",14723,2327,0.018
+Utah,39340,"Provo-Orem-Lehi, UT",2304,698,0.006
+Colorado,39380,"Pueblo, CO",1607,610,0.022
+Washington,39420,"Pullman, WA",211,210,0.009
+Florida,39460,"Punta Gorda, FL",629,411,0.008
+NA,39480,"Putnam, CT",416,223,0.008
+Illinois,39500,"Quincy, IL-MO",467,255,0.013
+Missouri,39500,"Quincy, IL-MO",467,255,0.013
+Wisconsin,39540,"Racine-Mount Pleasant, WI",808,381,0.009
+North Carolina,39580,"Raleigh-Cary, NC",9486,1591,0.012
+South Dakota,39660,"Rapid City, SD",2483,825,0.033
+Texas,39700,"Raymondville, TX",212,231,0.027
+Pennsylvania,39740,"Reading, PA",1479,524,0.007
+California,39780,"Red Bluff, CA",550,317,0.021
+California,39820,"Redding, CA",1522,545,0.02
 Minnesota,39860,"Red Wing, MN",152,97,0.006
-Nevada,39900,"Reno, NV",4811,962,0.017
-Idaho,39940,"Rexburg, ID",546,315,0.016
-NA,39960,"Rice Lake, WI",175,148,0.008
-Indiana,39980,"Richmond, IN",368,213,0.013
-Virginia,40060,"Richmond, VA",20210,2207,0.03
-Kentucky,40080,"Richmond-Berea, KY",1751,555,0.03
-NA,40090,"Rifle, CO",366,349,0.009
-Texas,40100,"Rio Grande City-Roma, TX",401,324,0.017
-California,40140,"Riverside-San Bernardino-Ontario, CA",27149,2723,0.013
-Wyoming,40180,"Riverton, WY",689,334,0.04
-Virginia,40220,"Roanoke, VA",2108,623,0.015
+Nevada,39900,"Reno, NV",4836,967,0.017
+Idaho,39940,"Rexburg, ID",549,317,0.016
+NA,39960,"Rice Lake, WI",176,149,0.008
+Indiana,39980,"Richmond, IN",370,214,0.013
+Virginia,40060,"Richmond, VA",20316,2218,0.03
+Kentucky,40080,"Richmond-Berea, KY",1760,558,0.03
+NA,40090,"Rifle, CO",368,351,0.009
+Texas,40100,"Rio Grande City-Roma, TX",403,325,0.017
+California,40140,"Riverside-San Bernardino-Ontario, CA",27291,2738,0.013
+Wyoming,40180,"Riverton, WY",693,336,0.04
+Virginia,40220,"Roanoke, VA",2119,626,0.015
 North Carolina,40260,"Roanoke Rapids, NC",163,99,0.007
-Illinois,40300,"Rochelle, IL",252,182,0.01
-Minnesota,40340,"Rochester, MN",866,348,0.007
-New York,40380,"Rochester, NY",4858,967,0.01
-Illinois,40420,"Rockford, IL",1454,833,0.01
-North Carolina,40460,"Rockingham, NC",102,176,0.006
-Wyoming,40540,"Rock Springs, WY",258,246,0.013
-North Carolina,40580,"Rocky Mount, NC",924,526,0.015
-Missouri,40620,"Rolla, MO",519,275,0.028
-Georgia,40660,"Rome, GA",525,336,0.012
-Oregon,40700,"Roseburg, OR",1356,577,0.031
-New Mexico,40740,"Roswell, NM",725,475,0.028
-New Mexico,40760,"Ruidoso, NM",254,228,0.029
-NA,40770,"Russellville, AL",284,224,0.023
-Arkansas,40780,"Russellville, AR",331,248,0.009
-Louisiana,40820,"Ruston, LA",242,276,0.013
-Vermont,40860,"Rutland, VT",271,174,0.01
-California,40900,"Sacramento-Roseville-Folsom, CA",15383,1971,0.014
-Arizona,40940,"Safford, AZ",635,339,0.041
-Michigan,40980,"Saginaw, MI",1008,414,0.012
-Minnesota,41060,"St. Cloud, MN",1960,613,0.019
-Utah,41100,"St. George, UT",1352,681,0.015
-Kansas,41140,"St. Joseph, MO-KS",643,291,0.012
-Missouri,41140,"St. Joseph, MO-KS",643,291,0.012
-Illinois,41180,"St. Louis, MO-IL",25469,2518,0.018
-Missouri,41180,"St. Louis, MO-IL",25469,2518,0.018
-Pennsylvania,41260,"St. Marys, PA",112,109,0.008
-Ohio,41400,"Salem, OH",363,239,0.008
-Oregon,41420,"Salem, OR",1424,610,0.007
-Kansas,41460,"Salina, KS",230,204,0.008
-California,41500,"Salinas, CA",3651,817,0.02
-Delaware,41540,"Salisbury, MD",791,433,0.014
-Maryland,41540,"Salisbury, MD",791,433,0.014
-Utah,41620,"Salt Lake City-Murray, UT",8909,1550,0.013
-Texas,41660,"San Angelo, TX",1906,903,0.035
-Texas,41700,"San Antonio-New Braunfels, TX",38406,3994,0.031
-California,41740,"San Diego-Chula Vista-Carlsbad, CA",40585,3380,0.026
-Idaho,41760,"Sandpoint, ID",141,104,0.007
-Ohio,41780,"Sandusky, OH",221,198,0.004
-North Carolina,41820,"Sanford, NC",172,172,0.006
-California,41860,"San Francisco-Oakland-Fremont, CA",30318,2635,0.013
-California,41940,"San Jose-Sunnyvale-Santa Clara, CA",7918,1327,0.008
-Puerto Rico,41980,"San Juan-Bayamón-Caguas, PR",12520,1856,0.016
-California,42020,"San Luis Obispo-Paso Robles, CA",1038,390,0.008
-California,42100,"Santa Cruz-Watsonville, CA",1090,528,0.009
-New Mexico,42140,"Santa Fe, NM",2751,734,0.039
-California,42200,"Santa Maria-Santa Barbara, CA",3328,789,0.017
-California,42220,"Santa Rosa-Petaluma, CA",1960,665,0.008
-Michigan,42300,"Sault Ste. Marie, MI",550,198,0.038
-Georgia,42340,"Savannah, GA",5657,1331,0.028
-Pennsylvania,42380,"Sayre, PA",306,173,0.012
-Nebraska,42420,"Scottsbluff, NE",214,259,0.012
-Alabama,42460,"Scottsboro, AL",773,468,0.035
-Pennsylvania,42540,"Scranton--Wilkes-Barre, PA",5476,982,0.022
-NA,42580,"Seaford, DE",1600,528,0.014
-Arkansas,42620,"Searcy, AR",538,428,0.017
-Washington,42660,"Seattle-Tacoma-Bellevue, WA",29662,2819,0.014
-Florida,42680,"Sebastian-Vero Beach-West Vero Corridor, FL",580,308,0.009
-Florida,42700,"Sebring, FL",490,399,0.014
-Missouri,42740,"Sedalia, MO",538,276,0.028
-Pennsylvania,42780,"Selinsgrove, PA",403,202,0.022
-Alabama,42820,"Selma, AL",51,65,0.004
-South Carolina,42860,"Seneca, SC",100,122,0.003
+Illinois,40300,"Rochelle, IL",253,183,0.01
+Minnesota,40340,"Rochester, MN",870,350,0.007
+New York,40380,"Rochester, NY",4883,972,0.01
+Illinois,40420,"Rockford, IL",1461,837,0.01
+North Carolina,40460,"Rockingham, NC",102,177,0.006
+Wyoming,40540,"Rock Springs, WY",259,247,0.013
+North Carolina,40580,"Rocky Mount, NC",929,529,0.015
+Missouri,40620,"Rolla, MO",521,277,0.028
+Georgia,40660,"Rome, GA",528,338,0.012
+Oregon,40700,"Roseburg, OR",1363,580,0.031
+New Mexico,40740,"Roswell, NM",729,477,0.028
+New Mexico,40760,"Ruidoso, NM",255,229,0.029
+NA,40770,"Russellville, AL",285,225,0.023
+Arkansas,40780,"Russellville, AR",332,249,0.009
+Louisiana,40820,"Ruston, LA",243,277,0.013
+Vermont,40860,"Rutland, VT",272,175,0.01
+California,40900,"Sacramento-Roseville-Folsom, CA",15463,1981,0.014
+Arizona,40940,"Safford, AZ",638,341,0.041
+Michigan,40980,"Saginaw, MI",1013,416,0.012
+Minnesota,41060,"St. Cloud, MN",1970,616,0.019
+Utah,41100,"St. George, UT",1359,685,0.015
+Kansas,41140,"St. Joseph, MO-KS",646,292,0.012
+Missouri,41140,"St. Joseph, MO-KS",646,292,0.012
+Illinois,41180,"St. Louis, MO-IL",25602,2531,0.018
+Missouri,41180,"St. Louis, MO-IL",25602,2531,0.018
+Pennsylvania,41260,"St. Marys, PA",112,110,0.008
+Ohio,41400,"Salem, OH",365,240,0.008
+Oregon,41420,"Salem, OR",1432,613,0.007
+Kansas,41460,"Salina, KS",231,205,0.008
+California,41500,"Salinas, CA",3670,821,0.02
+Delaware,41540,"Salisbury, MD",795,435,0.013
+Maryland,41540,"Salisbury, MD",795,435,0.013
+Utah,41620,"Salt Lake City-Murray, UT",8955,1558,0.013
+Texas,41660,"San Angelo, TX",1916,907,0.035
+Texas,41700,"San Antonio-New Braunfels, TX",38607,4015,0.031
+California,41740,"San Diego-Chula Vista-Carlsbad, CA",40798,3398,0.026
+Idaho,41760,"Sandpoint, ID",142,105,0.007
+Ohio,41780,"Sandusky, OH",222,199,0.004
+North Carolina,41820,"Sanford, NC",173,173,0.006
+California,41860,"San Francisco-Oakland-Fremont, CA",30476,2649,0.013
+California,41940,"San Jose-Sunnyvale-Santa Clara, CA",7960,1334,0.008
+NA,41980,"San Juan-Bayamón-Caguas, PR",12585,1865,0.016
+California,42020,"San Luis Obispo-Paso Robles, CA",1043,392,0.008
+California,42100,"Santa Cruz-Watsonville, CA",1096,530,0.009
+New Mexico,42140,"Santa Fe, NM",2765,738,0.039
+California,42200,"Santa Maria-Santa Barbara, CA",3346,793,0.017
+California,42220,"Santa Rosa-Petaluma, CA",1971,668,0.008
+Michigan,42300,"Sault Ste. Marie, MI",553,199,0.038
+Georgia,42340,"Savannah, GA",5687,1338,0.028
+Pennsylvania,42380,"Sayre, PA",308,174,0.012
+Nebraska,42420,"Scottsbluff, NE",215,261,0.012
+Alabama,42460,"Scottsboro, AL",777,470,0.035
+Pennsylvania,42540,"Scranton--Wilkes-Barre, PA",5505,987,0.022
+NA,42580,"Seaford, DE",1609,531,0.014
+Arkansas,42620,"Searcy, AR",541,430,0.017
+Washington,42660,"Seattle-Tacoma-Bellevue, WA",29817,2834,0.014
+Florida,42680,"Sebastian-Vero Beach-West Vero Corridor, FL",583,310,0.009
+Florida,42700,"Sebring, FL",492,401,0.014
+Missouri,42740,"Sedalia, MO",541,278,0.028
+Pennsylvania,42780,"Selinsgrove, PA",405,203,0.022
+Alabama,42820,"Selma, AL",52,66,0.004
+South Carolina,42860,"Seneca, SC",101,123,0.003
 New York,42900,"Seneca Falls, NY",83,73,0.006
-Tennessee,42940,"Sevierville, TN",985,540,0.021
+Tennessee,42940,"Sevierville, TN",990,543,0.021
 Indiana,42980,"Seymour, IN",46,59,0.002
-Wisconsin,43020,"Shawano, WI",298,167,0.015
-Oklahoma,43060,"Shawnee, OK",1629,350,0.055
-Wisconsin,43100,"Sheboygan, WI",245,184,0.004
-North Carolina,43140,"Shelby-Kings Mountain, NC",369,275,0.008
-Tennessee,43180,"Shelbyville, TN",672,328,0.026
-Washington,43220,"Shelton, WA",769,377,0.032
-Wyoming,43260,"Sheridan, WY",1141,537,0.071
-Texas,43300,"Sherman-Denison, TX",562,359,0.009
-Arizona,43320,"Show Low, AZ",1853,532,0.054
-Louisiana,43340,"Shreveport-Bossier City, LA",4754,1441,0.03
+Wisconsin,43020,"Shawano, WI",299,168,0.015
+Oklahoma,43060,"Shawnee, OK",1638,352,0.055
+Wisconsin,43100,"Sheboygan, WI",246,185,0.004
+North Carolina,43140,"Shelby-Kings Mountain, NC",371,277,0.008
+Tennessee,43180,"Shelbyville, TN",675,330,0.026
+Washington,43220,"Shelton, WA",773,379,0.032
+Wyoming,43260,"Sheridan, WY",1147,540,0.07
+Texas,43300,"Sherman-Denison, TX",565,361,0.009
+Arizona,43320,"Show Low, AZ",1863,535,0.054
+Louisiana,43340,"Shreveport-Bossier City, LA",4779,1449,0.03
 Ohio,43380,"Sidney, OH",55,97,0.002
-Arizona,43420,"Sierra Vista-Douglas, AZ",2375,631,0.06
-Missouri,43460,"Sikeston, MO",270,193,0.013
-New Mexico,43500,"Silver City, NM",128,156,0.016
-Iowa,43580,"Sioux City, IA-NE-SD",685,386,0.01
-Nebraska,43580,"Sioux City, IA-NE-SD",685,386,0.01
-South Dakota,43580,"Sioux City, IA-NE-SD",685,386,0.01
-South Dakota,43620,"Sioux Falls, SD-MN",2428,737,0.015
-NA,43640,"Slidell-Mandeville-Covington, LA",2330,733,0.018
-Kentucky,43700,"Somerset, KY",608,400,0.024
-Pennsylvania,43740,"Somerset, PA",444,200,0.014
-California,43760,"Sonora, CA",490,318,0.022
-Indiana,43780,"South Bend-Mishawaka, IN-MI",1422,486,0.01
-Michigan,43780,"South Bend-Mishawaka, IN-MI",1422,486,0.01
-NA,43890,"Sparta, WI",1176,351,0.06
-South Carolina,43900,"Spartanburg, SC",1168,624,0.007
-South Dakota,43940,"Spearfish, SD",434,293,0.031
-Iowa,44020,"Spirit Lake, IA",160,122,0.017
-Washington,44060,"Spokane-Spokane Valley, WA",6752,1321,0.025
-Illinois,44100,"Springfield, IL",1628,622,0.017
-Massachusetts,44140,"Springfield, MA",3614,825,0.017
-Missouri,44180,"Springfield, MO",2137,572,0.009
-Ohio,44220,"Springfield, OH",896,318,0.016
+Arizona,43420,"Sierra Vista-Douglas, AZ",2387,634,0.059
+Missouri,43460,"Sikeston, MO",271,194,0.013
+New Mexico,43500,"Silver City, NM",128,157,0.016
+Iowa,43580,"Sioux City, IA-NE-SD",688,388,0.01
+Nebraska,43580,"Sioux City, IA-NE-SD",688,388,0.01
+South Dakota,43580,"Sioux City, IA-NE-SD",688,388,0.01
+South Dakota,43620,"Sioux Falls, SD-MN",2441,741,0.015
+NA,43640,"Slidell-Mandeville-Covington, LA",2342,737,0.018
+Kentucky,43700,"Somerset, KY",612,402,0.024
+Pennsylvania,43740,"Somerset, PA",446,201,0.014
+California,43760,"Sonora, CA",492,320,0.022
+Indiana,43780,"South Bend-Mishawaka, IN-MI",1429,488,0.009
+Michigan,43780,"South Bend-Mishawaka, IN-MI",1429,488,0.009
+NA,43890,"Sparta, WI",1182,353,0.06
+South Carolina,43900,"Spartanburg, SC",1174,627,0.007
+South Dakota,43940,"Spearfish, SD",436,294,0.031
+Iowa,44020,"Spirit Lake, IA",161,123,0.017
+Washington,44060,"Spokane-Spokane Valley, WA",6787,1328,0.025
+Illinois,44100,"Springfield, IL",1637,625,0.017
+Massachusetts,44140,"Springfield, MA",3633,830,0.017
+Missouri,44180,"Springfield, MO",2148,575,0.009
+Ohio,44220,"Springfield, OH",901,319,0.016
 Mississippi,44260,"Starkville, MS",59,72,0.002
-Pennsylvania,44300,"State College, PA",612,333,0.009
-Georgia,44340,"Statesboro, GA",1250,665,0.032
-Virginia,44420,"Staunton-Stuarts Draft, VA",901,499,0.015
-Colorado,44460,"Steamboat Springs, CO",171,175,0.007
-Texas,44500,"Stephenville, TX",291,253,0.014
+Pennsylvania,44300,"State College, PA",615,335,0.009
+Georgia,44340,"Statesboro, GA",1256,669,0.032
+Virginia,44420,"Staunton-Stuarts Draft, VA",905,502,0.015
+Colorado,44460,"Steamboat Springs, CO",172,176,0.007
+Texas,44500,"Stephenville, TX",292,254,0.014
 Colorado,44540,"Sterling, CO",68,112,0.008
-Illinois,44580,"Sterling, IL",271,194,0.011
-Wisconsin,44620,"Stevens Point-Plover, WI",152,157,0.004
-Oklahoma,44660,"Stillwater, OK",1078,515,0.029
-California,44700,"Stockton-Lodi, CA",5476,1147,0.015
-Iowa,44740,"Storm Lake, IA",143,99,0.015
-Michigan,44780,"Sturgis, MI",291,173,0.011
-Texas,44860,"Sulphur Springs, TX",190,161,0.012
+Illinois,44580,"Sterling, IL",272,195,0.011
+Wisconsin,44620,"Stevens Point-Plover, WI",152,158,0.004
+Oklahoma,44660,"Stillwater, OK",1084,518,0.029
+California,44700,"Stockton-Lodi, CA",5505,1153,0.015
+Iowa,44740,"Storm Lake, IA",143,100,0.015
+Michigan,44780,"Sturgis, MI",292,174,0.011
+Texas,44860,"Sulphur Springs, TX",191,162,0.012
 Georgia,44900,"Summerville, GA",9,17,0.001
-South Carolina,44940,"Sumter, SC",1624,687,0.042
-Pennsylvania,44980,"Sunbury, PA",376,155,0.008
-California,45000,"Susanville, CA",541,329,0.057
-New York,45060,"Syracuse, NY",4863,1031,0.016
-Oklahoma,45140,"Tahlequah, OK",930,336,0.046
-Alabama,45180,"Talladega-Sylacauga, AL",1344,499,0.036
-Florida,45220,"Tallahassee, FL",2083,751,0.011
-Florida,45300,"Tampa-St. Petersburg-Clearwater, FL",24593,2488,0.016
-New Mexico,45340,"Taos, NM",282,314,0.018
-Illinois,45380,"Taylorville, IL",241,163,0.016
-Indiana,45460,"Terre Haute, IN",1921,597,0.027
-Arkansas,45500,"Texarkana, TX-AR",2600,775,0.045
-Texas,45500,"Texarkana, TX-AR",2600,775,0.045
+South Carolina,44940,"Sumter, SC",1632,690,0.042
+Pennsylvania,44980,"Sunbury, PA",378,156,0.008
+California,45000,"Susanville, CA",543,331,0.057
+New York,45060,"Syracuse, NY",4888,1036,0.016
+Oklahoma,45140,"Tahlequah, OK",935,338,0.046
+Alabama,45180,"Talladega-Sylacauga, AL",1351,502,0.036
+Florida,45220,"Tallahassee, FL",2094,755,0.011
+Florida,45300,"Tampa-St. Petersburg-Clearwater, FL",24722,2501,0.016
+New Mexico,45340,"Taos, NM",283,316,0.018
+Illinois,45380,"Taylorville, IL",243,164,0.016
+Indiana,45460,"Terre Haute, IN",1931,601,0.027
+Arkansas,45500,"Texarkana, TX-AR",2613,779,0.044
+Texas,45500,"Texarkana, TX-AR",2613,779,0.044
 Oregon,45520,"The Dalles, OR",48,69,0.004
-Georgia,45580,"Thomaston, GA",0,155,0
-Georgia,45620,"Thomasville, GA",212,204,0.007
-Ohio,45660,"Tiffin, OH",69,90,0.003
-Georgia,45700,"Tifton, GA",180,202,0.009
-Georgia,45740,"Toccoa, GA",132,159,0.011
-Ohio,45780,"Toledo, OH",2510,704,0.009
-Kansas,45820,"Topeka, KS",3489,877,0.033
-Connecticut,45860,"Torrington, CT",238,182,0.004
-Michigan,45900,"Traverse City, MI",923,471,0.013
-New Jersey,45940,"Trenton-Princeton, NJ",1739,632,0.01
-Alabama,45980,"Troy, AL",416,381,0.026
-California,46020,"Truckee-Grass Valley, CA",251,230,0.006
-Arizona,46060,"Tucson, AZ",11954,1861,0.025
-Tennessee,46100,"Tullahoma-Manchester, TN",983,458,0.034
-Oklahoma,46140,"Tulsa, OK",8125,926,0.017
-Mississippi,46180,"Tupelo, MS",549,332,0.009
-Alabama,46220,"Tuscaloosa, AL",3594,1015,0.03
-Idaho,46300,"Twin Falls, ID",1552,674,0.028
-Texas,46340,"Tyler, TX",1939,907,0.018
-California,46380,"Ukiah, CA",324,213,0.009
-Tennessee,46460,"Union City, TN",40,40,0.004
-Ohio,46500,"Urbana, OH",156,164,0.009
-Hawaii,46520,"Urban Honolulu, HI",26432,2050,0.06
-New York,46540,"Utica-Rome, NY",2726,765,0.022
-NA,46580,"Utuado, PR",0,172,0
-Texas,46620,"Uvalde, TX",0,162,0
-Georgia,46660,"Valdosta, GA",1272,532,0.02
-California,46700,"Vallejo, CA",3750,869,0.019
-Ohio,46780,"Van Wert, OH",455,303,0.036
-Utah,46860,"Vernal, UT",511,408,0.031
-Mississippi,46980,"Vicksburg, MS",1355,491,0.077
-Texas,47020,"Victoria, TX",1090,1149,0.026
-Georgia,47080,"Vidalia, GA",59,58,0.004
-Indiana,47180,"Vincennes, IN",105,117,0.006
-New Jersey,47220,"Vineland, NJ",1364,712,0.021
-North Carolina,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",48643,3743,0.061
-Virginia,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",48643,3743,0.061
-California,47300,"Visalia, CA",1653,432,0.009
+Georgia,45580,"Thomaston, GA",0,156,0
+Georgia,45620,"Thomasville, GA",213,205,0.007
+Ohio,45660,"Tiffin, OH",70,90,0.003
+Georgia,45700,"Tifton, GA",181,203,0.009
+Georgia,45740,"Toccoa, GA",133,160,0.011
+Ohio,45780,"Toledo, OH",2523,708,0.009
+Kansas,45820,"Topeka, KS",3507,881,0.033
+Connecticut,45860,"Torrington, CT",239,183,0.004
+Michigan,45900,"Traverse City, MI",927,474,0.012
+New Jersey,45940,"Trenton-Princeton, NJ",1748,636,0.01
+Alabama,45980,"Troy, AL",418,383,0.026
+California,46020,"Truckee-Grass Valley, CA",252,232,0.006
+Arizona,46060,"Tucson, AZ",12016,1871,0.025
+Tennessee,46100,"Tullahoma-Manchester, TN",988,460,0.034
+Oklahoma,46140,"Tulsa, OK",8168,931,0.017
+Mississippi,46180,"Tupelo, MS",552,334,0.009
+Alabama,46220,"Tuscaloosa, AL",3613,1020,0.03
+Idaho,46300,"Twin Falls, ID",1560,678,0.027
+Texas,46340,"Tyler, TX",1949,912,0.018
+California,46380,"Ukiah, CA",326,214,0.009
+Tennessee,46460,"Union City, TN",40,41,0.004
+Ohio,46500,"Urbana, OH",157,165,0.009
+Hawaii,46520,"Urban Honolulu, HI",26570,2061,0.06
+New York,46540,"Utica-Rome, NY",2740,769,0.022
+NA,46580,"Utuado, PR",0,173,0
+Texas,46620,"Uvalde, TX",0,163,0
+Georgia,46660,"Valdosta, GA",1278,535,0.02
+California,46700,"Vallejo, CA",3770,874,0.019
+Ohio,46780,"Van Wert, OH",457,305,0.035
+Utah,46860,"Vernal, UT",514,410,0.031
+Mississippi,46980,"Vicksburg, MS",1362,494,0.077
+Texas,47020,"Victoria, TX",1096,1155,0.026
+Georgia,47080,"Vidalia, GA",59,59,0.004
+Indiana,47180,"Vincennes, IN",106,118,0.006
+New Jersey,47220,"Vineland, NJ",1372,716,0.021
+North Carolina,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",48897,3763,0.061
+Virginia,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",48897,3763,0.061
+California,47300,"Visalia, CA",1662,434,0.009
 Indiana,47340,"Wabash, IN",19,28,0.001
-Texas,47380,"Waco, TX",1915,657,0.014
-Minnesota,47420,"Wahpeton, ND-MN",195,187,0.018
-North Dakota,47420,"Wahpeton, ND-MN",195,187,0.018
-Washington,47460,"Walla Walla, WA",868,365,0.033
+Texas,47380,"Waco, TX",1925,661,0.014
+Minnesota,47420,"Wahpeton, ND-MN",196,188,0.018
+North Dakota,47420,"Wahpeton, ND-MN",196,188,0.018
+Washington,47460,"Walla Walla, WA",872,367,0.033
 Ohio,47540,"Wapakoneta, OH",28,38,0.001
-Georgia,47580,"Warner Robins, GA",8341,1495,0.094
+Georgia,47580,"Warner Robins, GA",8384,1503,0.094
 Pennsylvania,47620,"Warren, PA",143,92,0.009
-Missouri,47660,"Warrensburg, MO",790,351,0.032
-Indiana,47700,"Warsaw, IN",312,276,0.008
-Indiana,47780,"Washington, IN",436,213,0.03
-North Carolina,47820,"Washington, NC",174,156,0.01
-District of Columbia,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",319455,8288,0.098
-Maryland,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",319455,8288,0.098
-Virginia,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",319455,8288,0.098
-West Virginia,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",319455,8288,0.098
-Ohio,47920,"Washington Court House, OH",191,203,0.015
-NA,47930,"Waterbury-Shelton, CT",2845,986,0.013
-Iowa,47940,"Waterloo-Cedar Falls, IA",868,397,0.011
-South Dakota,47980,"Watertown, SD",119,117,0.009
-Wisconsin,48020,"Watertown-Fort Atkinson, WI",356,270,0.008
-New York,48060,"Watertown-Fort Drum, NY",2232,669,0.05
-Wisconsin,48140,"Wausau, WI",224,108,0.003
-Georgia,48180,"Waycross, GA",112,135,0.005
-NA,48200,"Waynesville, NC",337,181,0.011
-Oklahoma,48220,"Weatherford, OK",616,300,0.034
-Ohio,48260,"Weirton-Steubenville, WV-OH",423,271,0.009
-West Virginia,48260,"Weirton-Steubenville, WV-OH",423,271,0.009
-Washington,48300,"Wenatchee-East Wenatchee, WA",1443,644,0.026
-Missouri,48460,"West Plains, MO",486,355,0.027
-Ohio,48540,"Wheeling, WV-OH",911,342,0.015
-West Virginia,48540,"Wheeling, WV-OH",911,342,0.015
-Wisconsin,48580,"Whitewater-Elkhorn, WI",189,120,0.004
-Kansas,48620,"Wichita, KS",5347,1258,0.017
-Texas,48660,"Wichita Falls, TX",2170,693,0.033
-NA,48680,"Wildwood-The Villages, FL",693,513,0.021
-Pennsylvania,48700,"Williamsport, PA",1286,480,0.025
-North Dakota,48780,"Williston, ND",174,175,0.009
+Missouri,47660,"Warrensburg, MO",794,353,0.032
+Indiana,47700,"Warsaw, IN",314,278,0.008
+Indiana,47780,"Washington, IN",438,214,0.029
+North Carolina,47820,"Washington, NC",175,157,0.01
+District of Columbia,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",321127,8331,0.098
+Maryland,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",321127,8331,0.098
+Virginia,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",321127,8331,0.098
+West Virginia,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",321127,8331,0.098
+Ohio,47920,"Washington Court House, OH",192,204,0.015
+NA,47930,"Waterbury-Shelton, CT",2860,992,0.013
+Iowa,47940,"Waterloo-Cedar Falls, IA",873,399,0.011
+South Dakota,47980,"Watertown, SD",120,117,0.009
+Wisconsin,48020,"Watertown-Fort Atkinson, WI",358,271,0.008
+New York,48060,"Watertown-Fort Drum, NY",2244,672,0.05
+Wisconsin,48140,"Wausau, WI",225,108,0.003
+Georgia,48180,"Waycross, GA",113,136,0.005
+NA,48200,"Waynesville, NC",339,182,0.011
+Oklahoma,48220,"Weatherford, OK",619,301,0.034
+Ohio,48260,"Weirton-Steubenville, WV-OH",425,272,0.009
+West Virginia,48260,"Weirton-Steubenville, WV-OH",425,272,0.009
+Washington,48300,"Wenatchee-East Wenatchee, WA",1450,647,0.026
+Missouri,48460,"West Plains, MO",488,357,0.027
+Ohio,48540,"Wheeling, WV-OH",916,343,0.015
+West Virginia,48540,"Wheeling, WV-OH",916,343,0.015
+Wisconsin,48580,"Whitewater-Elkhorn, WI",190,121,0.004
+Kansas,48620,"Wichita, KS",5375,1265,0.017
+Texas,48660,"Wichita Falls, TX",2181,696,0.033
+NA,48680,"Wildwood-The Villages, FL",696,516,0.021
+Pennsylvania,48700,"Williamsport, PA",1293,483,0.025
+North Dakota,48780,"Williston, ND",174,176,0.009
 Minnesota,48820,"Willmar, MN",134,95,0.007
-North Carolina,48900,"Wilmington, NC",2533,791,0.012
-Ohio,48940,"Wilmington, OH",232,200,0.012
-North Carolina,48980,"Wilson, NC",140,171,0.004
-NA,49010,"Winchester, TN",307,214,0.016
-Virginia,49020,"Winchester, VA-WV",2959,943,0.043
-West Virginia,49020,"Winchester, VA-WV",2959,943,0.043
+North Carolina,48900,"Wilmington, NC",2546,795,0.012
+Ohio,48940,"Wilmington, OH",233,201,0.012
+North Carolina,48980,"Wilson, NC",141,172,0.004
+NA,49010,"Winchester, TN",309,215,0.016
+Virginia,49020,"Winchester, VA-WV",2974,947,0.042
+West Virginia,49020,"Winchester, VA-WV",2974,947,0.042
 Minnesota,49100,"Winona, MN",83,69,0.003
-North Carolina,49180,"Winston-Salem, NC",3369,971,0.011
-Wisconsin,49220,"Wisconsin Rapids-Marshfield, WI",84,92,0.003
-Ohio,49300,"Wooster, OH",427,279,0.008
-Connecticut,49340,"Worcester, MA",4762,1114,0.011
-Massachusetts,49340,"Worcester, MA",4762,1114,0.011
+North Carolina,49180,"Winston-Salem, NC",3386,976,0.011
+Wisconsin,49220,"Wisconsin Rapids-Marshfield, WI",85,92,0.003
+Ohio,49300,"Wooster, OH",429,280,0.008
+Connecticut,49340,"Worcester, MA",4787,1120,0.011
+Massachusetts,49340,"Worcester, MA",4787,1120,0.011
 Minnesota,49380,"Worthington, MN",20,20,0.002
-Washington,49420,"Yakima, WA",3061,953,0.028
-South Dakota,49460,"Yankton, SD",372,194,0.034
-Pennsylvania,49620,"York-Hanover, PA",3863,924,0.017
-Ohio,49660,"Youngstown-Warren, OH",1947,484,0.011
-Pennsylvania,49660,"Youngstown-Warren, OH",1947,484,0.011
-California,49700,"Yuba City, CA",1430,650,0.02
-Arizona,49740,"Yuma, AZ",3372,997,0.047
-Ohio,49780,"Zanesville, OH",183,171,0.005
+Washington,49420,"Yakima, WA",3077,958,0.028
+South Dakota,49460,"Yankton, SD",374,195,0.034
+Pennsylvania,49620,"York-Hanover, PA",3883,929,0.017
+Ohio,49660,"Youngstown-Warren, OH",1958,487,0.011
+Pennsylvania,49660,"Youngstown-Warren, OH",1958,487,0.011
+California,49700,"Yuba City, CA",1438,653,0.02
+Arizona,49740,"Yuma, AZ",3390,1002,0.047
+Ohio,49780,"Zanesville, OH",184,172,0.005

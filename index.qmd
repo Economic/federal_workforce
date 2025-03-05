@@ -104,7 +104,7 @@ Inputs.table(metro_filtered, {
 :::
 
 ::: {.callout-note title="Source"}
-Analysis of 2023 American Community Survey and Current Employment Statistics data by Ben Zipperer, 18 February 2025, [Economic Policy Institute](https://www.epi.org/).
+Analysis of 2023 American Community Survey and 2025 Current Employment Statistics data by Ben Zipperer, 5 March 2025, [Economic Policy Institute](https://www.epi.org/).
 :::
 
 ```{ojs}
