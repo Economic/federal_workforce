@@ -104,7 +104,7 @@ Inputs.table(metro_filtered, {
 :::
 
 ::: {.callout-note title="Source"}
-Analysis of 2023 American Community Survey and 2025 Current Employment Statistics data by Ben Zipperer, 5 March 2025, [Economic Policy Institute](https://www.epi.org/).
+Analysis of 2023 American Community Survey and 2025 Current Employment Statistics data by Ben Zipperer, 5 March 2025, [Economic Policy Institute](https://www.epi.org/){target="_blank"}.
 :::
 
 ```{ojs}
@@ -136,13 +136,13 @@ DOM.download(async () => {
 
 ### Methodology
 
-The data are based on the 2023 [American Community Survey](https://data.census.gov/table?t=Class%20of%20Worker&g=010XX00US,$0400000&d=ACS%201-Year%20Supplemental%20Estimates) 1-year estimates of civilian employment by class of worker and residence, and they extend the estimates previously published in [2024 Congressional Research Service report R47716](https://crsreports.congress.gov/product/pdf/R/R47716). The margin of error is for a 90% percent confidence interval. The share of total employment is the number of civilian federal workers divided by the number of all civilian workers living in a given location. Some small counties or areas may not be listed. Congressional Districts are for the 118th Congress.
+The data are based on the 2023 [American Community Survey](https://data.census.gov/table?t=Class%20of%20Worker&g=010XX00US,$0400000&d=ACS%201-Year%20Supplemental%20Estimates){target="_blank"} 1-year estimates of civilian employment by class of worker and residence, and they extend the estimates previously published in [2024 Congressional Research Service report R47716](https://crsreports.congress.gov/product/pdf/R/R47716){target="_blank"}. The margin of error is for a 90% percent confidence interval. The share of total employment is the number of civilian federal workers divided by the number of all civilian workers living in a given location. Some small counties or areas may not be listed. Congressional Districts are for the 118th Congress.
 
-This analysis rescales published ACS counts and margins of error so that the values above are consistent with the January 2025 BLS Current Employment Situation federal government employment [estimate](https://data.bls.gov/dataViewer/view/timeseries/CES9091000001) of 3,024,000 and total nonfarm employment [estimate](https://data.bls.gov/dataViewer/view/timeseries/CES0000000001) of 159,069,000.
+This analysis rescales published ACS counts and margins of error so that the values above are consistent with the January 2025 BLS Current Employment Situation federal government employment [estimate](https://data.bls.gov/dataViewer/view/timeseries/CES9091000001){target="_blank"} of 3,024,000 and total nonfarm employment [estimate](https://data.bls.gov/dataViewer/view/timeseries/CES0000000001){target="_blank"} of 159,069,000.
 
 
 
-View the [code](https://github.com/economic/federal_workforce), or download the data for every region at the level of [Congressional Districts](web_assets/federal_workers_cd.csv), [counties](web_assets/federal_workers_county.csv), [metro areas](web_assets/federal_workers_metro.csv), or [states](web_assets/federal_workers_state.csv).
+View the [code](https://github.com/economic/federal_workforce){target="_blank"}, or download the data for every region at the level of [Congressional Districts](web_assets/federal_workers_cd.csv), [counties](web_assets/federal_workers_county.csv), [metro areas](web_assets/federal_workers_metro.csv), or [states](web_assets/federal_workers_state.csv).
 
 
 ```{ojs}
